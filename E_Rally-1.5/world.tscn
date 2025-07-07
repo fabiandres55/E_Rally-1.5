@@ -1,0 +1,40 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://base car.tscn" type="PackedScene" id=1]
+[ext_resource path="res://MAIN/misc/camera.gd" type="Script" id=2]
+[ext_resource path="res://MISC/debugger.tscn" type="PackedScene" id=3]
+[ext_resource path="res://MISC/scene swapper/scenes/Test Scene/scene.tscn" type="PackedScene" id=6]
+[ext_resource path="res://MISC/mobile controls/mobile.tscn" type="PackedScene" id=8]
+
+[node name="world" type="Spatial"]
+
+[node name="mobile_ctrls" parent="." instance=ExtResource( 8 )]
+visible = false
+
+[node name="debug" parent="." instance=ExtResource( 3 )]
+
+[node name="cam_chase" type="Position3D" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -15 )
+script = ExtResource( 2 )
+mobile_controls = NodePath("../mobile_ctrls")
+car = NodePath("../car")
+
+[node name="orbit" type="Position3D" parent="cam_chase"]
+
+[node name="Camera" type="Camera" parent="cam_chase/orbit"]
+transform = Transform( 1, 0, 0, 0, 0.984808, 0.173648, 0, -0.173648, 0.984808, 0, 5.5, 0 )
+cull_mask = 524287
+doppler_tracking = 2
+current = true
+near = 0.1
+far = 10000.0
+
+[node name="sun" type="DirectionalLight" parent="."]
+transform = Transform( 0.92388, 0.293153, -0.245984, 0, 0.642788, 0.766044, 0.382683, -0.707733, 0.593858, 0, 7.38043, 0 )
+shadow_bias = 1.0
+directional_shadow_split_1 = 0.025
+directional_shadow_max_distance = 1000.0
+
+[node name="test scene" parent="." instance=ExtResource( 6 )]
+
+[node name="car" parent="." instance=ExtResource( 1 )]

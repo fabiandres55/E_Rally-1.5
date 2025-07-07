@@ -1,0 +1,1348 @@
+[gd_scene load_steps=21 format=2]
+
+[ext_resource path="res://FONT/DroidSans.ttf" type="DynamicFontData" id=1]
+[ext_resource path="res://logo.png" type="Texture" id=2]
+[ext_resource path="res://MISC/misc scripts/debug.gd" type="Script" id=3]
+[ext_resource path="res://MISC/scene swapper/scene swapper.gd" type="Script" id=4]
+[ext_resource path="res://MISC/graphics_config/graphics config.gd" type="Script" id=5]
+[ext_resource path="res://MISC/misc scripts/show_info.gd" type="Script" id=6]
+[ext_resource path="res://MISC/controls config/slider_variables.gd" type="Script" id=7]
+[ext_resource path="res://MISC/controls config/run.gd" type="Script" id=8]
+[ext_resource path="res://MISC/controls config/check_variables.gd" type="Script" id=9]
+[ext_resource path="res://MISC/car swapper/car swapper.gd" type="Script" id=10]
+[ext_resource path="res://MAIN/misc/textures/sw.png" type="Texture" id=11]
+[ext_resource path="res://MAIN/misc/textures/sw_desired.png" type="Texture" id=12]
+[ext_resource path="res://MISC/tachometre/tacho.tscn" type="PackedScene" id=13]
+[ext_resource path="res://MISC/vertical progress bar/bar.tscn" type="PackedScene" id=14]
+[ext_resource path="res://MISC/visual gravity system/vgs.tscn" type="PackedScene" id=15]
+[ext_resource path="res://MISC/graph/display.tscn" type="PackedScene" id=16]
+
+[sub_resource type="DynamicFont" id=1]
+font_data = ExtResource( 1 )
+
+[sub_resource type="DynamicFont" id=2]
+size = 20
+font_data = ExtResource( 1 )
+
+[sub_resource type="DynamicFont" id=3]
+size = 36
+font_data = ExtResource( 1 )
+
+[sub_resource type="DynamicFont" id=4]
+font_data = ExtResource( 1 )
+
+[node name="debug" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 3 )
+car = NodePath("../car")
+
+[node name="throttle" parent="." instance=ExtResource( 14 )]
+anchor_left = 1.0
+anchor_right = 1.0
+margin_left = -282.0
+margin_top = 111.0
+margin_right = -274.0
+margin_bottom = 235.0
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="ColorRect" parent="throttle" index="0"]
+color = Color( 0, 0.5, 1, 1 )
+
+[node name="brake" parent="." instance=ExtResource( 14 )]
+anchor_left = 1.0
+anchor_right = 1.0
+margin_left = -297.0
+margin_top = 111.0
+margin_right = -289.0
+margin_bottom = 235.0
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="ColorRect" parent="brake" index="0"]
+color = Color( 1, 0, 0, 1 )
+
+[node name="handbrake" parent="." instance=ExtResource( 14 )]
+anchor_left = 1.0
+anchor_right = 1.0
+margin_left = -312.0
+margin_top = 111.0
+margin_right = -304.0
+margin_bottom = 235.0
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="ColorRect" parent="handbrake" index="0"]
+color = Color( 0.5, 0, 1, 1 )
+
+[node name="clutch" parent="." instance=ExtResource( 14 )]
+anchor_left = 1.0
+anchor_right = 1.0
+margin_left = -327.0
+margin_top = 111.0
+margin_right = -319.0
+margin_bottom = 235.0
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="container" type="VBoxContainer" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="fps" type="Label" parent="container"]
+margin_right = 1024.0
+margin_bottom = 19.0
+custom_fonts/font = SubResource( 1 )
+text = "debug"
+
+[node name="weight_dist" type="Label" parent="container"]
+margin_top = 23.0
+margin_right = 1024.0
+margin_bottom = 42.0
+custom_fonts/font = SubResource( 1 )
+text = "debug"
+
+[node name="sw" type="TextureRect" parent="."]
+visible = false
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+margin_left = -399.0
+margin_top = -312.0
+margin_right = -271.0
+margin_bottom = -184.0
+rect_pivot_offset = Vector2( 64, 64 )
+texture = ExtResource( 11 )
+expand = true
+
+[node name="sw_desired" type="TextureRect" parent="."]
+visible = false
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+margin_left = -399.0
+margin_top = -312.0
+margin_right = -271.0
+margin_bottom = -184.0
+rect_pivot_offset = Vector2( 64, 64 )
+texture = ExtResource( 12 )
+expand = true
+
+[node name="power_graph" parent="." instance=ExtResource( 16 )]
+anchor_left = 0.0166016
+anchor_top = 0.126667
+anchor_right = 0.203125
+anchor_bottom = 0.305
+margin_bottom = -1.52588e-05
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="ColorRect" type="ColorRect" parent="power_graph"]
+show_behind_parent = true
+anchor_right = 1.0
+anchor_bottom = 1.0
+color = Color( 0, 0, 0, 0.184314 )
+
+[node name="rpm" type="ColorRect" parent="power_graph"]
+show_behind_parent = true
+anchor_bottom = 1.0
+margin_right = 2.0
+margin_bottom = 0.000213623
+
+[node name="redline" type="ColorRect" parent="power_graph"]
+show_behind_parent = true
+anchor_bottom = 1.0
+margin_right = 2.0
+margin_bottom = 0.000213623
+color = Color( 1, 0, 0, 1 )
+
+[node name="tacho" parent="." instance=ExtResource( 13 )]
+anchor_left = 1.0
+anchor_top = 0.0
+anchor_right = 1.0
+anchor_bottom = 0.0
+margin_left = -260.0
+margin_top = 89.0
+margin_right = -3.99963
+margin_bottom = 345.0
+Turbo_Visible = true
+Max_PSI = 32.0
+
+[node name="turbo" parent="tacho" index="0"]
+margin_left = -371.0
+margin_top = -102.0
+margin_right = -243.0
+margin_bottom = 26.0
+
+[node name="abs" type="Label" parent="tacho"]
+self_modulate = Color( 1, 1, 0, 1 )
+anchor_left = 0.23828
+anchor_top = 0.320313
+anchor_right = 0.374999
+anchor_bottom = 0.425781
+custom_fonts/font = SubResource( 2 )
+text = "ABS"
+align = 1
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="tcs" type="Label" parent="tacho"]
+self_modulate = Color( 1, 1, 0, 1 )
+anchor_left = 0.23828
+anchor_top = 0.425781
+anchor_right = 0.374999
+anchor_bottom = 0.53125
+custom_fonts/font = SubResource( 2 )
+text = "TCS"
+align = 1
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="esp" type="Label" parent="tacho"]
+self_modulate = Color( 1, 1, 0, 1 )
+anchor_left = 0.23828
+anchor_top = 0.519531
+anchor_right = 0.374999
+anchor_bottom = 0.625
+custom_fonts/font = SubResource( 2 )
+text = "ESP"
+align = 1
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="rpm" type="Label" parent="tacho"]
+anchor_top = 0.191406
+anchor_right = 1.0
+anchor_bottom = 0.363281
+custom_fonts/font = SubResource( 3 )
+text = "0"
+align = 1
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="speedm" type="Label" parent="tacho"]
+anchor_top = 0.617188
+anchor_right = 1.0
+anchor_bottom = 0.789063
+custom_fonts/font = SubResource( 2 )
+text = "MPH: 888"
+align = 1
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="speedk" type="Label" parent="tacho"]
+anchor_top = 0.71875
+anchor_right = 1.0
+anchor_bottom = 0.890625
+custom_fonts/font = SubResource( 2 )
+text = "KM/PH: 888"
+align = 1
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="gear" type="Label" parent="tacho"]
+anchor_left = 0.175781
+anchor_top = 0.421875
+anchor_right = 1.17578
+anchor_bottom = 0.59375
+custom_fonts/font = SubResource( 3 )
+text = "N"
+align = 1
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="tq" type="Label" parent="."]
+anchor_left = 0.0126953
+anchor_top = 0.311667
+anchor_right = 0.382813
+anchor_bottom = 0.353333
+custom_colors/font_color = Color( 0.5, 0.5, 1, 1 )
+custom_fonts/font = SubResource( 4 )
+text = "Torque: 000.0 UNIT @ 00000 RPM"
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="hp" type="Label" parent="."]
+anchor_left = 0.0126953
+anchor_top = 0.348333
+anchor_right = 0.382813
+anchor_bottom = 0.39
+custom_colors/font_color = Color( 1, 0.5, 0.5, 1 )
+custom_fonts/font = SubResource( 4 )
+text = "Power: 000.0 UNIT @ 00000 RPM"
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="g" type="Label" parent="."]
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+margin_left = 80.0
+margin_top = -95.0
+margin_right = 459.0
+margin_bottom = -5.99994
+custom_fonts/font = SubResource( 4 )
+text = "GS
+7
+7
+7"
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="vgs" parent="." instance=ExtResource( 15 )]
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+margin_left = -64.0
+margin_top = -137.0
+margin_right = 64.0
+margin_bottom = -9.00012
+Scale = 1.25
+
+[node name="controls manipulator" type="Control" parent="."]
+visible = false
+anchor_left = 0.334961
+anchor_top = 0.1975
+anchor_right = 0.665039
+anchor_bottom = 0.8025
+script = ExtResource( 8 )
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="background" type="ColorRect" parent="controls manipulator"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+color = Color( 0, 0, 0, 0.5 )
+
+[node name="scroll" type="ScrollContainer" parent="controls manipulator"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+scroll_horizontal_enabled = false
+
+[node name="container" type="VBoxContainer" parent="controls manipulator/scroll"]
+margin_right = 240.0
+margin_bottom = 1404.0
+rect_min_size = Vector2( 240, 0 )
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="HSlider7" type="HSlider" parent="controls manipulator/scroll/container"]
+margin_right = 240.0
+margin_bottom = 60.0
+rect_min_size = Vector2( 0, 60 )
+hint_tooltip = "GearAssistant[1]
+
+0 = No clutch nor shifting assist. Your car relies on how fast you shift. (not required on Automatic/CVT cars)
+1 = Auto clutch. Shift whenever you have to. (not required on DCT/DSG cars)
+2 = Fully auto. You might get inprecise outbacks."
+max_value = 2.0
+script = ExtResource( 7 )
+var_name = "GEAR_ASSIST"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/HSlider7"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Shift Assist Level"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/HSlider7"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "0.0"
+valign = 2
+
+[node name="HSlider16" type="HSlider" parent="controls manipulator/scroll/container"]
+margin_top = 64.0
+margin_right = 240.0
+margin_bottom = 124.0
+rect_min_size = Vector2( 0, 60 )
+min_value = 1.0
+max_value = 2.0
+step = 0.001
+value = 1.0
+script = ExtResource( 7 )
+var_name = "SteerSensitivity"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/HSlider16"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Steering Sensitivity"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/HSlider16"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "0.0"
+valign = 2
+
+[node name="CheckBox" type="CheckBox" parent="controls manipulator/scroll/container"]
+margin_top = 128.0
+margin_right = 240.0
+margin_bottom = 188.0
+rect_min_size = Vector2( 0, 60 )
+script = ExtResource( 9 )
+var_name = "UseMouseSteering"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/CheckBox"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Use Mouse Steering"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/CheckBox"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "false"
+valign = 2
+
+[node name="CheckBox2" type="CheckBox" parent="controls manipulator/scroll/container"]
+margin_top = 128.0
+margin_right = 240.0
+margin_bottom = 188.0
+rect_min_size = Vector2( 0, 60 )
+script = ExtResource( 9 )
+var_name = "UseAccelerometreSteering"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/CheckBox2"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Use Accelerometre Steering"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/CheckBox2"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "false"
+valign = 2
+
+[node name="HSlider4" type="HSlider" parent="controls manipulator/scroll/container"]
+margin_top = 192.0
+margin_right = 240.0
+margin_bottom = 252.0
+rect_min_size = Vector2( 0, 60 )
+max_value = 0.2
+step = 0.001
+script = ExtResource( 7 )
+var_name = "SteerAmountDecay"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/HSlider4"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Steer Amount Decay"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/HSlider4"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "0.0"
+valign = 2
+
+[node name="HSlider5" type="HSlider" parent="controls manipulator/scroll/container"]
+margin_top = 256.0
+margin_right = 240.0
+margin_bottom = 316.0
+rect_min_size = Vector2( 0, 60 )
+max_value = 2.0
+step = 0.001
+script = ExtResource( 7 )
+var_name = "SteeringAssistance"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/HSlider5"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Steering Assistance"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/HSlider5"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "0.0"
+valign = 2
+
+[node name="HSlider6" type="HSlider" parent="controls manipulator/scroll/container"]
+margin_top = 320.0
+margin_right = 240.0
+margin_bottom = 380.0
+rect_min_size = Vector2( 0, 60 )
+max_value = 1.0
+step = 0.001
+script = ExtResource( 7 )
+var_name = "SteeringAssistanceAngular"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/HSlider6"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Steering Assistance Angular"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/HSlider6"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "0.0"
+valign = 2
+
+[node name="HSlider8" type="HSlider" parent="controls manipulator/scroll/container"]
+margin_top = 384.0
+margin_right = 240.0
+margin_bottom = 444.0
+rect_min_size = Vector2( 0, 60 )
+max_value = 1.0
+step = 0.001
+script = ExtResource( 7 )
+var_name = "OnThrottleRate"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/HSlider8"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "On Throttle Rate"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/HSlider8"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "0.0"
+valign = 2
+
+[node name="HSlider9" type="HSlider" parent="controls manipulator/scroll/container"]
+margin_top = 448.0
+margin_right = 240.0
+margin_bottom = 508.0
+rect_min_size = Vector2( 0, 60 )
+max_value = 1.0
+step = 0.001
+script = ExtResource( 7 )
+var_name = "OffThrottleRate"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/HSlider9"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Off Throttle Rate"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/HSlider9"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "0.0"
+valign = 2
+
+[node name="HSlider10" type="HSlider" parent="controls manipulator/scroll/container"]
+margin_top = 512.0
+margin_right = 240.0
+margin_bottom = 572.0
+rect_min_size = Vector2( 0, 60 )
+max_value = 1.0
+step = 0.001
+script = ExtResource( 7 )
+var_name = "OnBrakeRate"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/HSlider10"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "On Brake Rate"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/HSlider10"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "0.0"
+valign = 2
+
+[node name="HSlider11" type="HSlider" parent="controls manipulator/scroll/container"]
+margin_top = 576.0
+margin_right = 240.0
+margin_bottom = 636.0
+rect_min_size = Vector2( 0, 60 )
+max_value = 1.0
+step = 0.001
+script = ExtResource( 7 )
+var_name = "OffBrakeRate"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/HSlider11"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Off Brake Rate"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/HSlider11"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "0.0"
+valign = 2
+
+[node name="HSlider12" type="HSlider" parent="controls manipulator/scroll/container"]
+margin_top = 640.0
+margin_right = 240.0
+margin_bottom = 700.0
+rect_min_size = Vector2( 0, 60 )
+max_value = 1.0
+step = 0.001
+script = ExtResource( 7 )
+var_name = "OnHandbrakeRate"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/HSlider12"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "On Handbrake Rate"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/HSlider12"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "0.0"
+valign = 2
+
+[node name="HSlider13" type="HSlider" parent="controls manipulator/scroll/container"]
+margin_top = 704.0
+margin_right = 240.0
+margin_bottom = 764.0
+rect_min_size = Vector2( 0, 60 )
+max_value = 1.0
+step = 0.001
+script = ExtResource( 7 )
+var_name = "OffHandbrakeRate"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/HSlider13"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Off Handbrake Rate"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/HSlider13"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "0.0"
+valign = 2
+
+[node name="HSlider14" type="HSlider" parent="controls manipulator/scroll/container"]
+margin_top = 768.0
+margin_right = 240.0
+margin_bottom = 828.0
+rect_min_size = Vector2( 0, 60 )
+max_value = 1.0
+step = 0.001
+script = ExtResource( 7 )
+var_name = "OnClutchRate"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/HSlider14"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "On Clutch Rate"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/HSlider14"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "0.0"
+valign = 2
+
+[node name="HSlider15" type="HSlider" parent="controls manipulator/scroll/container"]
+margin_top = 832.0
+margin_right = 240.0
+margin_bottom = 892.0
+rect_min_size = Vector2( 0, 60 )
+max_value = 1.0
+step = 0.001
+script = ExtResource( 7 )
+var_name = "OffClutchRate"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/HSlider15"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Off Clutch Rate"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/HSlider15"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "0.0"
+valign = 2
+
+[node name="HSlider17" type="HSlider" parent="controls manipulator/scroll/container"]
+margin_top = 832.0
+margin_right = 240.0
+margin_bottom = 892.0
+rect_min_size = Vector2( 0, 60 )
+max_value = 1.0
+step = 0.001
+script = ExtResource( 7 )
+var_name = "MaxThrottle"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/HSlider17"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Max Throttle"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/HSlider17"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "0.0"
+valign = 2
+
+[node name="HSlider18" type="HSlider" parent="controls manipulator/scroll/container"]
+margin_top = 832.0
+margin_right = 240.0
+margin_bottom = 892.0
+rect_min_size = Vector2( 0, 60 )
+max_value = 1.0
+step = 0.001
+script = ExtResource( 7 )
+var_name = "MaxBrake"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/HSlider18"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Max Brake"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/HSlider18"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "0.0"
+valign = 2
+
+[node name="HSlider19" type="HSlider" parent="controls manipulator/scroll/container"]
+margin_top = 832.0
+margin_right = 240.0
+margin_bottom = 892.0
+rect_min_size = Vector2( 0, 60 )
+max_value = 1.0
+step = 0.001
+script = ExtResource( 7 )
+var_name = "MaxHandbrake"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/HSlider19"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Max Handbrake"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/HSlider19"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "0.0"
+valign = 2
+
+[node name="HSlider20" type="HSlider" parent="controls manipulator/scroll/container"]
+margin_top = 832.0
+margin_right = 240.0
+margin_bottom = 892.0
+rect_min_size = Vector2( 0, 60 )
+max_value = 1.0
+step = 0.001
+script = ExtResource( 7 )
+var_name = "MaxClutch"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/HSlider20"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Max Clutch"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/HSlider20"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "0.0"
+valign = 2
+
+[node name="HSlider" type="HSlider" parent="controls manipulator/scroll/container"]
+margin_top = 896.0
+margin_right = 240.0
+margin_bottom = 956.0
+rect_min_size = Vector2( 0, 60 )
+max_value = 1.0
+step = 0.001
+script = ExtResource( 7 )
+var_name = "KeyboardSteerSpeed"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/HSlider"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Keyboard Steer Speed"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/HSlider"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "0.0"
+valign = 2
+
+[node name="HSlider2" type="HSlider" parent="controls manipulator/scroll/container"]
+margin_top = 960.0
+margin_right = 240.0
+margin_bottom = 1020.0
+rect_min_size = Vector2( 0, 60 )
+max_value = 1.0
+step = 0.001
+script = ExtResource( 7 )
+var_name = "KeyboardReturnSpeed"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/HSlider2"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Keyboard Return Speed"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/HSlider2"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "0.0"
+valign = 2
+
+[node name="HSlider3" type="HSlider" parent="controls manipulator/scroll/container"]
+margin_top = 1024.0
+margin_right = 240.0
+margin_bottom = 1084.0
+rect_min_size = Vector2( 0, 60 )
+max_value = 1.0
+step = 0.001
+script = ExtResource( 7 )
+var_name = "KeyboardCompensateSpeed"
+
+[node name="text" type="Label" parent="controls manipulator/scroll/container/HSlider3"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Keyboard Compensate Speed"
+
+[node name="amount" type="Label" parent="controls manipulator/scroll/container/HSlider3"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "0.0"
+valign = 2
+
+[node name="inform" type="Control" parent="."]
+visible = false
+anchor_left = 0.102539
+anchor_top = 0.12
+anchor_right = 0.897461
+anchor_bottom = 0.881667
+script = ExtResource( 6 )
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="background" type="ColorRect" parent="inform"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+color = Color( 0, 0, 0, 0.5 )
+
+[node name="scroll" type="ScrollContainer" parent="inform"]
+anchor_left = 0.41769
+anchor_top = 0.0525164
+anchor_right = 0.974202
+anchor_bottom = 0.947484
+scroll_horizontal_enabled = false
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="container" type="VBoxContainer" parent="inform/scroll"]
+margin_right = 453.001
+margin_bottom = 794.0
+size_flags_horizontal = 3
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="clabel" type="Label" parent="inform/scroll/container"]
+margin_right = 441.0
+margin_bottom = 66.0
+mouse_filter = 1
+custom_fonts/font = SubResource( 1 )
+text = "--------------------------------------------------
+Car Controls:
+--------------------------------------------------"
+align = 1
+autowrap = true
+
+[node name="c" type="Label" parent="inform/scroll/container"]
+margin_top = 70.0
+margin_right = 441.0
+margin_bottom = 205.0
+custom_fonts/font = SubResource( 1 )
+text = "The icons are the controls themselves.
+
+
+
+
+"
+autowrap = true
+
+[node name="clabel2" type="Label" parent="inform/scroll/container"]
+margin_top = 209.0
+margin_right = 441.0
+margin_bottom = 275.0
+hint_tooltip = "These would be irrelevant if you have modified inputs via editor."
+mouse_filter = 1
+custom_fonts/font = SubResource( 1 )
+text = "--------------------------------------------------
+Misc Controls:
+--------------------------------------------------"
+align = 1
+autowrap = true
+
+[node name="c2" type="Label" parent="inform/scroll/container"]
+margin_top = 279.0
+margin_right = 441.0
+margin_bottom = 368.0
+custom_fonts/font = SubResource( 1 )
+text = "Drag Horizontal = Rotate Camera
+Drag Vertical = Zoom
+Double Tap = Reset Camera
+"
+autowrap = true
+
+[node name="credlabel" type="Label" parent="inform/scroll/container"]
+margin_top = 372.0
+margin_right = 441.0
+margin_bottom = 438.0
+custom_fonts/font = SubResource( 1 )
+text = "--------------------------------------------------
+Credits/Sources:
+--------------------------------------------------"
+align = 1
+autowrap = true
+
+[node name="cred" type="Label" parent="inform/scroll/container"]
+margin_top = 442.0
+margin_right = 441.0
+margin_bottom = 830.0
+custom_fonts/font = SubResource( 1 )
+text = "Contributors:
+devHrytsan
+
+Car Designers:
+shotman_16 - Eclipse SRC
+
+Extra:
+The cars Eclipse SRC, Synic EKI, Vistina R4, Eclipse T6, Synic Hyena 4.0, Python GT, and Miranda Proto originated from my other project called \"Nitrovista\". One of its game map is also featured on this project via [MISC>scene swapper>scenes>Nitrovista - Aqua Highway]. Use of any sort for the assets provided are permitted as long as you provide proper credits in compliance with the licenses.
+
+All vehicles are fictional. Any resemblance to existing counterparts and names are purely coincidental."
+autowrap = true
+
+[node name="watermark" type="TextureRect" parent="inform"]
+anchor_left = 0.02457
+anchor_top = 0.02407
+anchor_right = 0.398
+anchor_bottom = 0.319
+margin_right = 0.0276489
+margin_bottom = 8.21684
+texture = ExtResource( 2 )
+expand = true
+stretch_mode = 5
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="clabel" type="Label" parent="inform"]
+anchor_left = 0.0651106
+anchor_top = 0.319475
+anchor_right = 0.379607
+anchor_bottom = 0.363238
+hint_tooltip = "These would be irrelevant if you have modified the inputs."
+mouse_filter = 1
+custom_fonts/font = SubResource( 1 )
+text = "Powered by Godot"
+align = 1
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="graphics config" type="Control" parent="."]
+visible = false
+anchor_left = 0.334961
+anchor_top = 0.1975
+anchor_right = 0.665039
+anchor_bottom = 0.8025
+script = ExtResource( 5 )
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="background" type="ColorRect" parent="graphics config"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+color = Color( 0, 0, 0, 0.5 )
+
+[node name="scroll" type="ScrollContainer" parent="graphics config"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+scroll_horizontal_enabled = false
+
+[node name="container" type="VBoxContainer" parent="graphics config/scroll"]
+margin_right = 240.0
+margin_bottom = 380.0
+rect_min_size = Vector2( 240, 0 )
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="CheckBox" type="CheckBox" parent="graphics config/scroll/container"]
+margin_right = 240.0
+margin_bottom = 60.0
+rect_min_size = Vector2( 0, 60 )
+script = ExtResource( 9 )
+var_name = "reflections"
+
+[node name="text" type="Label" parent="graphics config/scroll/container/CheckBox"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Reflections"
+
+[node name="amount" type="Label" parent="graphics config/scroll/container/CheckBox"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "false"
+valign = 2
+
+[node name="CheckBox2" type="CheckBox" parent="graphics config/scroll/container"]
+margin_top = 64.0
+margin_right = 240.0
+margin_bottom = 124.0
+rect_min_size = Vector2( 0, 60 )
+script = ExtResource( 9 )
+var_name = "shadows"
+
+[node name="text" type="Label" parent="graphics config/scroll/container/CheckBox2"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Shadows"
+
+[node name="amount" type="Label" parent="graphics config/scroll/container/CheckBox2"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "false"
+valign = 2
+
+[node name="CheckBox3" type="CheckBox" parent="graphics config/scroll/container"]
+margin_top = 128.0
+margin_right = 240.0
+margin_bottom = 188.0
+rect_min_size = Vector2( 0, 60 )
+script = ExtResource( 9 )
+var_name = "smoke"
+
+[node name="text" type="Label" parent="graphics config/scroll/container/CheckBox3"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Tyre Smoke"
+
+[node name="amount" type="Label" parent="graphics config/scroll/container/CheckBox3"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "false"
+valign = 2
+
+[node name="CheckBox4" type="CheckBox" parent="graphics config/scroll/container"]
+margin_top = 192.0
+margin_right = 240.0
+margin_bottom = 252.0
+rect_min_size = Vector2( 0, 60 )
+script = ExtResource( 9 )
+var_name = "use_procedual_sky"
+
+[node name="text" type="Label" parent="graphics config/scroll/container/CheckBox4"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Use Procedural Sky"
+
+[node name="amount" type="Label" parent="graphics config/scroll/container/CheckBox4"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "false"
+valign = 2
+
+[node name="CheckBox5" type="CheckBox" parent="graphics config/scroll/container"]
+margin_top = 256.0
+margin_right = 240.0
+margin_bottom = 316.0
+rect_min_size = Vector2( 0, 60 )
+script = ExtResource( 9 )
+var_name = "fxaa"
+
+[node name="text" type="Label" parent="graphics config/scroll/container/CheckBox5"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "FXAA"
+
+[node name="amount" type="Label" parent="graphics config/scroll/container/CheckBox5"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "false"
+valign = 2
+
+[node name="_FULLSCREEN" type="CheckBox" parent="graphics config/scroll/container"]
+margin_top = 320.0
+margin_right = 240.0
+margin_bottom = 380.0
+rect_min_size = Vector2( 0, 60 )
+script = ExtResource( 9 )
+var_name = "fs"
+
+[node name="text" type="Label" parent="graphics config/scroll/container/_FULLSCREEN"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Fullscreen"
+
+[node name="amount" type="Label" parent="graphics config/scroll/container/_FULLSCREEN"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "false"
+valign = 2
+
+[node name="car swapper" type="Control" parent="."]
+visible = false
+anchor_left = 0.183594
+anchor_top = 0.1975
+anchor_right = 0.816406
+anchor_bottom = 0.8025
+script = ExtResource( 10 )
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="background" type="ColorRect" parent="car swapper"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+color = Color( 0, 0, 0, 0.5 )
+
+[node name="scroll" type="ScrollContainer" parent="car swapper"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+scroll_horizontal_enabled = false
+
+[node name="container" type="GridContainer" parent="car swapper/scroll"]
+margin_right = 213.0
+margin_bottom = 128.0
+columns = 3
+
+[node name="_DEFAULT" type="Button" parent="car swapper/scroll/container"]
+margin_right = 213.0
+margin_bottom = 128.0
+rect_min_size = Vector2( 213, 128 )
+custom_fonts/font = SubResource( 2 )
+icon_align = 1
+expand_icon = true
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="carname" type="Label" parent="car swapper/scroll/container/_DEFAULT"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "base car"
+align = 1
+valign = 2
+
+[node name="icon" type="TextureRect" parent="car swapper/scroll/container/_DEFAULT"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_bottom = -18.0
+texture = ExtResource( 2 )
+expand = true
+stretch_mode = 6
+
+[node name="scene swapper" type="Control" parent="."]
+visible = false
+anchor_left = 0.183594
+anchor_top = 0.1975
+anchor_right = 0.816406
+anchor_bottom = 0.8025
+script = ExtResource( 4 )
+__meta__ = {
+"_edit_use_anchors_": true
+}
+current_map = NodePath("../../test scene")
+
+[node name="background" type="ColorRect" parent="scene swapper"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+color = Color( 0, 0, 0, 0.5 )
+
+[node name="scroll" type="ScrollContainer" parent="scene swapper"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+scroll_horizontal_enabled = false
+
+[node name="container" type="GridContainer" parent="scene swapper/scroll"]
+margin_right = 213.0
+margin_bottom = 128.0
+columns = 3
+
+[node name="_DEFAULT" type="Button" parent="scene swapper/scroll/container"]
+margin_right = 213.0
+margin_bottom = 128.0
+rect_min_size = Vector2( 213, 128 )
+custom_fonts/font = SubResource( 2 )
+icon_align = 1
+expand_icon = true
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="mapname" type="Label" parent="scene swapper/scroll/container/_DEFAULT"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "mofn"
+align = 1
+valign = 2
+
+[node name="icon" type="TextureRect" parent="scene swapper/scroll/container/_DEFAULT"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_bottom = -18.0
+texture = ExtResource( 2 )
+expand = true
+stretch_mode = 6
+
+[node name="open controls" type="Button" parent="."]
+anchor_left = 0.849609
+anchor_right = 0.998047
+anchor_bottom = 0.08
+custom_fonts/font = SubResource( 2 )
+text = "control config"
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="fix engine" type="Button" parent="."]
+anchor_left = 1.0
+anchor_right = 1.0
+margin_left = -203.0
+margin_top = 162.0
+margin_right = -57.0001
+margin_bottom = 216.0
+custom_fonts/font = SubResource( 2 )
+text = "fix engine"
+flat = true
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="toggle forces" type="Button" parent="."]
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+margin_left = -217.0
+margin_top = -62.0
+margin_right = -72.0005
+margin_bottom = -6.00018
+custom_fonts/font = SubResource( 2 )
+text = "toggle forces"
+
+[node name="open graphics" type="Button" parent="."]
+anchor_left = 0.451172
+anchor_right = 0.609375
+anchor_bottom = 0.08
+custom_fonts/font = SubResource( 2 )
+text = "graphics config"
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="info" type="Button" parent="."]
+anchor_left = 0.325195
+anchor_right = 0.444336
+anchor_bottom = 0.08
+custom_fonts/font = SubResource( 2 )
+text = "information"
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="swap car" type="Button" parent="."]
+anchor_left = 0.74707
+anchor_right = 0.844727
+anchor_bottom = 0.08
+custom_fonts/font = SubResource( 2 )
+text = "swap car"
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="swap map" type="Button" parent="."]
+anchor_left = 0.613281
+anchor_right = 0.742188
+anchor_bottom = 0.08
+custom_fonts/font = SubResource( 2 )
+text = "change scene"
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[connection signal="pressed" from="open controls" to="controls manipulator" method="_on_Button_pressed"]
+[connection signal="pressed" from="fix engine" to="." method="engine_restart"]
+[connection signal="pressed" from="toggle forces" to="." method="toggle_forces"]
+[connection signal="pressed" from="open graphics" to="graphics config" method="_on_Button_pressed"]
+[connection signal="pressed" from="info" to="inform" method="_on_info_pressed"]
+[connection signal="pressed" from="swap car" to="car swapper" method="_on_swap_car_pressed"]
+[connection signal="pressed" from="swap map" to="scene swapper" method="_on_swap_map_pressed"]
+
+[editable path="throttle"]
+[editable path="brake"]
+[editable path="handbrake"]
+[editable path="clutch"]
+[editable path="tacho"]
