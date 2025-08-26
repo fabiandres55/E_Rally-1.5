@@ -1,0 +1,857 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
+  <diagram name="Página-1" id="PQzjj5xWQh3lCUnkxXyu">
+    <mxGraphModel dx="8448" dy="5143" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-239" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-2270" y="-220" width="2330" height="2290" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="-829" width="461" height="429" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-629" y="-186" width="483" height="349" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-6" target="KE1zYMi7UNZFZbIT8Z2D-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-6" target="KE1zYMi7UNZFZbIT8Z2D-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-6" target="KE1zYMi7UNZFZbIT8Z2D-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-2156" y="986" width="2128" height="1041" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-597" y="184" width="436" height="349" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-1286" y="-80" width="436" height="349" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-573" y="214" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-11" target="KE1zYMi7UNZFZbIT8Z2D-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-693" y="269" />
+              <mxPoint x="-693" y="4" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-11" value="Jugar&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-543" y="254" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-13" target="KE1zYMi7UNZFZbIT8Z2D-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-13" value="Salir" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-543" y="304" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-15" target="KE1zYMi7UNZFZbIT8Z2D-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-15" value="Opciones y extras" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-543" y="354" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1262" y="-48" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-17" value="Estas seguro de salir?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1212" y="37" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-18" value="SI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1162" y="102" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-19" value="NO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1062" y="102" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-573" y="-136" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-22" target="KE1zYMi7UNZFZbIT8Z2D-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-22" value="Introduccion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-543" y="-86" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-24" target="KE1zYMi7UNZFZbIT8Z2D-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-5" y="104" />
+              <mxPoint x="-5" y="-10" />
+              <mxPoint x="483" y="-10" />
+              <mxPoint x="483" y="-230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-24" value="Rally_1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-373" y="-96" width="90" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-26" target="KE1zYMi7UNZFZbIT8Z2D-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-193" y="33" />
+              <mxPoint x="122" y="33" />
+              <mxPoint x="122" y="2106" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-26" value="Map" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-283" y="-96" width="90" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-28" target="KE1zYMi7UNZFZbIT8Z2D-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-180.00000000000045" y="-622.9314285714285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="-782.36" width="400" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-34" target="KE1zYMi7UNZFZbIT8Z2D-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="1976" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-34" target="KE1zYMi7UNZFZbIT8Z2D-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-34" target="KE1zYMi7UNZFZbIT8Z2D-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="2106" />
+              <mxPoint x="1000" y="2636" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-34" target="KE1zYMi7UNZFZbIT8Z2D-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-34" target="KE1zYMi7UNZFZbIT8Z2D-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-34" value="3D-open_world" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227" y="1966" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-36" target="KE1zYMi7UNZFZbIT8Z2D-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-36" value="Settings-engine-map&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;positive m&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1966" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-37" value="3D simulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1896" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-39" target="KE1zYMi7UNZFZbIT8Z2D-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-39" value="Settings-engine-map&lt;div&gt;negative m&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="993" y="2730" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-40" value="3D simulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1453" y="2660" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-42" target="KE1zYMi7UNZFZbIT8Z2D-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-42" value="Settings-engine-map&lt;div&gt;&amp;nbsp;m equal to cero&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1003" y="3035" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-43" value="3D simulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1463" y="2965" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-45" target="KE1zYMi7UNZFZbIT8Z2D-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-45" value="Settings-engine-map&lt;div&gt;b &amp;gt;0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1003" y="3355" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-46" value="3D simulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1463" y="3285" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-48" target="KE1zYMi7UNZFZbIT8Z2D-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-48" value="Settings-engine-map&lt;div&gt;b &amp;lt;0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1003" y="3665" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-49" value="3D simulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1463" y="3595" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1555" y="1130" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1845" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-52" value="Ajustes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1535" y="1140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1365.1176470588234" y="1610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-54" value="Creditos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1410" y="1140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-55" value="Sobre nosotros" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1285" y="1140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2045" y="1250" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1565" y="1610" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-547" y="1212" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-59" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2023.5" y="1310" width="358.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-60" value="creditos&lt;div&gt;asda&lt;/div&gt;&lt;div&gt;asd&lt;/div&gt;&lt;div&gt;ad&lt;/div&gt;&lt;div&gt;asd&lt;/div&gt;&lt;div&gt;as&lt;/div&gt;&lt;div&gt;da&lt;/div&gt;&lt;div&gt;sd&lt;/div&gt;&lt;div&gt;asd&lt;/div&gt;&lt;div&gt;asd&lt;/div&gt;&lt;div&gt;as&lt;/div&gt;&lt;div&gt;das&lt;/div&gt;&lt;div&gt;das&lt;/div&gt;&lt;div&gt;das&lt;/div&gt;&lt;div&gt;d&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1555" y="1645" width="365" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-61" value="video" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2005" y="1320" width="117" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-62" value="Audio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2005" y="1370" width="117" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-63" value="creditos&lt;div&gt;asda&lt;/div&gt;&lt;div&gt;asd&lt;/div&gt;&lt;div&gt;ad&lt;/div&gt;&lt;div&gt;asd&lt;/div&gt;&lt;div&gt;as&lt;/div&gt;&lt;div&gt;da&lt;/div&gt;&lt;div&gt;sd&lt;/div&gt;&lt;div&gt;asd&lt;/div&gt;&lt;div&gt;asd&lt;/div&gt;&lt;div&gt;as&lt;/div&gt;&lt;div&gt;das&lt;/div&gt;&lt;div&gt;das&lt;/div&gt;&lt;div&gt;das&lt;/div&gt;&lt;div&gt;d&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-529.5" y="1272" width="365" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-64" value="Mouse bonito, video del auto elegante, y que salir y ajustes se vean en pantalla principal." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-363" y="524" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-65" value="ver 1.5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-253" y="464" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-66" value="Bienvenido a E-Rally:&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&quot;¡Bienvenido a E_Rally ! Aquí no estás solo para correr… ¡estás aquí para conquistar cada curva con tu mente y cada salto con tus ideas!&quot;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&quot;Este no es un simple juego de carreras. Este es tu territorio, tu laboratorio de velocidad, donde cada pendiente es una ecuación… y cada giro, una incógnita por resolver.&quot;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&quot;Tú eres el arquitecto de tu victoria… o de tu derrota. Usarás herramientas matemáticas reales y las pondrás a prueba en cada pista.&quot;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;em data-end=&quot;475&quot; data-start=&quot;276&quot;&gt;&quot;Explora libremente. Compite contra el reloj, reta a tus compañeros o domina los desafíos secretos escondidos por todo el mapa. Cada prueba resuelta, ¡te hace más rápido, más sabio y más imparable!&lt;/em&gt;&lt;br data-end=&quot;478&quot; data-start=&quot;475&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;596&quot; data-start=&quot;480&quot;&gt;O si lo prefieres… explora libremente este software a tu ritmo. Lo que hagas de ahora en adelante… depende de ti.&quot;&lt;/em&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-695" y="-732.36" width="370" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-67" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="-790" width="320" height="335.29" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-68" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="-772.36" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="-587.36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-70" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot; data-end=&quot;435&quot; data-start=&quot;192&quot;&gt;Hola, jugador.&lt;/em&gt;&lt;/h1&gt;&lt;p&gt;&lt;em data-end=&quot;435&quot; data-start=&quot;192&quot;&gt;&lt;br&gt;¿Te gustó la introducción? Bueno… la persona que te habló hace un momento fui yo: Leonard.&lt;br data-end=&quot;304&quot; data-start=&quot;301&quot;&gt;&lt;br&gt;Voy a ser quien te acompañe en esta aventura, ayudándote a entender muchas cosas por aquí.&lt;br data-end=&quot;397&quot; data-start=&quot;394&quot;&gt;&lt;br&gt;Por ahora, empecemos con lo básico...&lt;/em&gt;&lt;br data-end=&quot;438&quot; data-start=&quot;435&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;542&quot; data-start=&quot;440&quot;&gt;Presiona la tecla de flecha hacia arriba en tu teclado… y arranca el coche.&lt;/em&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="-702.36" width="295" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-72" target="KE1zYMi7UNZFZbIT8Z2D-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-72" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-782.36" width="320" height="335.29" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-73" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;em data-end=&quot;435&quot; data-start=&quot;192&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;315&quot; data-start=&quot;193&quot;&gt;&quot;¡Muy bien! Ahora presiona las teclas de flecha &lt;strong data-end=&quot;253&quot; data-start=&quot;242&quot;&gt;derecha&lt;/strong&gt; e &lt;strong data-end=&quot;269&quot; data-start=&quot;256&quot;&gt;izquierda&lt;/strong&gt; para girar el automóvil en esas direcciones.&lt;/em&gt;&lt;br data-end=&quot;318&quot; data-start=&quot;315&quot;&gt;&lt;br/&gt;&lt;em data-end=&quot;381&quot; data-start=&quot;320&quot;&gt;Si necesitas detenerte, presiona la flecha &lt;strong data-end=&quot;379&quot; data-start=&quot;364&quot;&gt;hacia atrás&lt;/strong&gt;.&lt;/em&gt;&lt;br data-end=&quot;384&quot; data-start=&quot;381&quot;&gt;&lt;br/&gt;&lt;em data-end=&quot;569&quot; data-start=&quot;386&quot;&gt;Y aquí va un truco especial... si presionas la tecla &lt;strong data-end=&quot;451&quot; data-start=&quot;440&quot;&gt;espacio&lt;/strong&gt;, ¡podrás hacer que el auto derrape en las curvas! Aprende a dominarlo… te será muy útil en los desafíos que vienen.&quot;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="142.5" y="-710" width="295" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-74" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-772.36" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-75" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;em data-end=&quot;435&quot; data-start=&quot;192&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;315&quot; data-start=&quot;193&quot;&gt;&quot;¡Muy bien! Ahora presiona las teclas de flecha &lt;strong data-end=&quot;253&quot; data-start=&quot;242&quot;&gt;derecha&lt;/strong&gt; e &lt;strong data-end=&quot;269&quot; data-start=&quot;256&quot;&gt;izquierda&lt;/strong&gt; para girar el automóvil en esas direcciones.&lt;/em&gt;&lt;br data-end=&quot;318&quot; data-start=&quot;315&quot;&gt;&lt;br/&gt;&lt;em data-end=&quot;381&quot; data-start=&quot;320&quot;&gt;Si necesitas detenerte, presiona la flecha &lt;strong data-end=&quot;379&quot; data-start=&quot;364&quot;&gt;hacia atrás&lt;/strong&gt;.&lt;/em&gt;&lt;br data-end=&quot;384&quot; data-start=&quot;381&quot;&gt;&lt;br/&gt;&lt;em data-end=&quot;569&quot; data-start=&quot;386&quot;&gt;Y aquí va un truco especial... si presionas la tecla &lt;strong data-end=&quot;451&quot; data-start=&quot;440&quot;&gt;espacio&lt;/strong&gt;, ¡podrás hacer que el auto derrape en las curvas! Aprende a dominarlo… te será muy útil en los desafíos que vienen.&quot;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="-710" width="295" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-77" target="KE1zYMi7UNZFZbIT8Z2D-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="-447" />
+              <mxPoint x="520" y="-339" />
+              <mxPoint x="405" y="-339" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-77" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="-782.36" width="320" height="335.29" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-78" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;em data-end=&quot;211&quot; data-start=&quot;172&quot;&gt;&quot;¿Crees que ya dominas los controles?&lt;/em&gt;&lt;br data-end=&quot;214&quot; data-start=&quot;211&quot;&gt;&lt;br/&gt;&lt;em data-end=&quot;291&quot; data-start=&quot;216&quot;&gt;¿Quieres ir a la pista ahora o prefieres seguir practicando un poco más?&quot;&lt;/em&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="-729.72" width="295" height="219.72" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-80" target="KE1zYMi7UNZFZbIT8Z2D-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1500" y="-72.33333333333326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-80" value="&lt;blockquote data-end=&quot;464&quot; data-start=&quot;249&quot;&gt;&lt;p data-end=&quot;464&quot; data-start=&quot;251&quot;&gt;&lt;em data-end=&quot;296&quot; data-start=&quot;251&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&quot;&lt;font style=&quot;&quot;&gt;¡Bienvenido a tu &lt;strong style=&quot;&quot; data-end=&quot;293&quot; data-start=&quot;270&quot;&gt;prueba de conceptos&lt;/strong&gt;!&quot;&lt;/font&gt;&lt;/font&gt;&lt;/em&gt;&lt;font size=&quot;3&quot;&gt;&lt;br data-end=&quot;299&quot; data-start=&quot;296&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;464&quot; data-start=&quot;301&quot;&gt;&quot;Antes de comenzar los rallys oficiales, vamos a explorar algunas ideas clave que te ayudarán a entender cómo se comportan las pistas y cómo usarlas a tu favor.&quot;&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;&lt;p data-end=&quot;464&quot; data-start=&quot;251&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;594&quot; data-start=&quot;468&quot;&gt;&lt;font size=&quot;3&quot;&gt;&quot;Hoy vamos a hablar de la &lt;strong data-end=&quot;508&quot; data-start=&quot;495&quot;&gt;pendiente&lt;/strong&gt;, una herramienta matemática que nos permite saber qué tan inclinada está una recta.&quot;&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote data-end=&quot;594&quot; data-start=&quot;466&quot;&gt;&lt;p data-end=&quot;594&quot; data-start=&quot;468&quot;&gt;&lt;em style=&quot;font-size: medium; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;637&quot; data-start=&quot;598&quot;&gt;(El auto aparece en un espacio plano)&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote data-end=&quot;747&quot; data-start=&quot;596&quot;&gt;&lt;p data-end=&quot;747&quot; data-start=&quot;598&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;em data-end=&quot;747&quot; data-start=&quot;642&quot;&gt;&quot;En este momento estás en una pista completamente &lt;strong data-end=&quot;702&quot; data-start=&quot;693&quot;&gt;plana&lt;/strong&gt;. Puedes conducir libremente por esta zona.&quot;&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;&lt;p data-end=&quot;747&quot; data-start=&quot;598&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;897&quot; data-start=&quot;751&quot;&gt;&lt;font size=&quot;3&quot;&gt;&quot;¿Notas algo? Aquí no hay subidas ni bajadas. Eso significa que la &lt;strong data-end=&quot;851&quot; data-start=&quot;819&quot;&gt;pendiente del camino es cero&lt;/strong&gt;. En otras palabras: &lt;strong data-end=&quot;894&quot; data-start=&quot;872&quot;&gt;no hay inclinación&lt;/strong&gt;.&quot;&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;747&quot; data-start=&quot;598&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1106&quot; data-start=&quot;901&quot;&gt;&lt;font size=&quot;3&quot;&gt;&quot;Esto es importante, porque a medida que avances en el juego, las pistas cambiarán de forma, y entender la pendiente te ayudará a tomar mejores decisiones y resolver desafíos matemáticos en tiempo real.&quot;&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;747&quot; data-start=&quot;598&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1227&quot; data-start=&quot;1110&quot;&gt;&lt;font size=&quot;3&quot;&gt;&quot;Cuando estés listo, avanza hacia la siguiente zona&quot;&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-340.28999999999996" width="460" height="535.29" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="-347.64" width="530" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-83" target="KE1zYMi7UNZFZbIT8Z2D-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-83" value="&lt;blockquote data-end=&quot;464&quot; data-start=&quot;249&quot;&gt;&lt;p data-end=&quot;464&quot; data-start=&quot;251&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;301&quot; data-start=&quot;254&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&quot;Muy bien… ¡has llegado a la siguiente zona!&quot;&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;&lt;blockquote data-end=&quot;416&quot; data-start=&quot;252&quot;&gt;&lt;p data-end=&quot;416&quot; data-start=&quot;254&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;416&quot; data-start=&quot;306&quot;&gt;&lt;font size=&quot;3&quot;&gt;&quot;Como puedes ver, ahora el camino empieza a &lt;strong data-end=&quot;360&quot; data-start=&quot;351&quot;&gt;subir&lt;/strong&gt;. Esta vez, la pista tiene una &lt;strong data-end=&quot;413&quot; data-start=&quot;391&quot;&gt;pendiente positiva&lt;/strong&gt;.&quot;&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;416&quot; data-start=&quot;254&quot;&gt;&lt;em style=&quot;font-size: medium; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;443&quot; data-start=&quot;420&quot;&gt;&quot;¿Qué significa eso?&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote data-end=&quot;628&quot; data-start=&quot;418&quot;&gt;&lt;p data-end=&quot;628&quot; data-start=&quot;420&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;em data-end=&quot;628&quot; data-start=&quot;448&quot;&gt;&quot;Significa que por cada paso que das hacia adelante, también estás subiendo. En matemáticas, eso quiere decir que la &lt;strong data-end=&quot;579&quot; data-start=&quot;566&quot;&gt;pendiente&lt;/strong&gt; de esta recta es un número &lt;strong data-end=&quot;625&quot; data-start=&quot;607&quot;&gt;mayor que cero&lt;/strong&gt;.&quot;&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;&lt;p data-end=&quot;628&quot; data-start=&quot;420&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;708&quot; data-start=&quot;632&quot;&gt;&lt;font size=&quot;3&quot;&gt;&quot;Cuanto más inclinada esté la pista, mayor será el valor de la pendiente.&quot;&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote data-end=&quot;884&quot; data-start=&quot;710&quot;&gt;&lt;p data-end=&quot;884&quot; data-start=&quot;712&quot;&gt;&lt;em data-end=&quot;884&quot; data-start=&quot;712&quot;&gt;&lt;font size=&quot;3&quot;&gt;&quot;Siente cómo el auto se esfuerza un poco más al subir… eso también es parte del aprendizaje. Conducir en una pendiente positiva requiere más precisión… y más estrategia.&quot;&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;884&quot; data-start=&quot;712&quot;&gt;&lt;em data-end=&quot;884&quot; data-start=&quot;712&quot;&gt;&lt;em style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot; data-end=&quot;1227&quot; data-start=&quot;1110&quot;&gt;&lt;font size=&quot;3&quot;&gt;&quot;Cuando estés listo, avanza hacia la siguiente zona&quot;&lt;/font&gt;&lt;/em&gt;&lt;font size=&quot;3&quot;&gt;&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="-347.64" width="530" height="547.64" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-85" target="KE1zYMi7UNZFZbIT8Z2D-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-85" value="&lt;blockquote data-end=&quot;464&quot; data-start=&quot;249&quot;&gt;&lt;p data-end=&quot;464&quot; data-start=&quot;251&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;blockquote data-end=&quot;416&quot; data-start=&quot;252&quot;&gt;&lt;blockquote data-end=&quot;370&quot; data-start=&quot;196&quot;&gt;&lt;p data-end=&quot;370&quot; data-start=&quot;198&quot;&gt;&lt;em data-end=&quot;266&quot; data-start=&quot;198&quot;&gt;&quot;¡Excelente! Ahora has llegado a una nueva sección del recorrido.&quot;&lt;/em&gt;&lt;br data-end=&quot;269&quot; data-start=&quot;266&quot;&gt;&lt;em data-end=&quot;370&quot; data-start=&quot;271&quot;&gt;&quot;¿Lo notas? El camino ahora comienza a &lt;strong data-end=&quot;324&quot; data-start=&quot;311&quot;&gt;descender&lt;/strong&gt;. Estás frente a una &lt;strong data-end=&quot;367&quot; data-start=&quot;345&quot;&gt;pendiente negativa&lt;/strong&gt;.&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote data-end=&quot;540&quot; data-start=&quot;372&quot;&gt;&lt;p data-end=&quot;540&quot; data-start=&quot;374&quot;&gt;&lt;em data-end=&quot;540&quot; data-start=&quot;374&quot;&gt;&quot;En términos matemáticos, esto significa que por cada paso que das hacia adelante, también vas bajando. La pendiente de esta recta es un número &lt;strong data-end=&quot;537&quot; data-start=&quot;519&quot;&gt;menor que cero&lt;/strong&gt;.&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote data-end=&quot;690&quot; data-start=&quot;542&quot;&gt;&lt;p data-end=&quot;690&quot; data-start=&quot;544&quot;&gt;&lt;em data-end=&quot;690&quot; data-start=&quot;544&quot;&gt;&quot;Conducir cuesta abajo es más rápido, pero también requiere control. La pendiente negativa puede parecer fácil… ¡pero cuidado con la velocidad!&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p data-end=&quot;416&quot; data-start=&quot;254&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;827&quot; data-start=&quot;694&quot;&gt;&quot;Así como antes subías al avanzar, ahora estás bajando. Eso es lo que hace única a cada pista: su &lt;strong data-end=&quot;808&quot; data-start=&quot;793&quot;&gt;inclinación&lt;/strong&gt; o &lt;strong data-end=&quot;824&quot; data-start=&quot;811&quot;&gt;pendiente&lt;/strong&gt;.&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;416&quot; data-start=&quot;254&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;827&quot; data-start=&quot;694&quot;&gt;&lt;em style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot; data-end=&quot;1227&quot; data-start=&quot;1110&quot;&gt;&lt;font size=&quot;3&quot;&gt;&quot;Cuando estés listo, avanza hacia la siguiente zona&quot;&lt;/font&gt;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1951" y="-347.64" width="530" height="547.64" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-88" target="KE1zYMi7UNZFZbIT8Z2D-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-88" target="KE1zYMi7UNZFZbIT8Z2D-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3300.2855573381703" y="-706.4285757882254" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-88" value="&lt;blockquote data-end=&quot;464&quot; data-start=&quot;249&quot;&gt;&lt;p data-end=&quot;464&quot; data-start=&quot;251&quot;&gt;Video explicativo de como calcular la pendiente&lt;/p&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2724" y="-347.64" width="530" height="547.64" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-89" value="" style="swimlane;startSize=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="2724" y="208" width="50" height="44" as="geometry">
+            <mxRectangle x="2724" y="208" width="597" height="656" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-90" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;m =&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&quot;¿Recuerdas este auto? Este fue el que usamos cuando hablábamos de &lt;strong data-end=&quot;478&quot; data-start=&quot;460&quot;&gt;pendiente cero&lt;/strong&gt;.&quot;&lt;/p&gt;&lt;p data-end=&quot;604&quot; data-start=&quot;483&quot;&gt;[Mostrar el auto sobre una pista completamente plana, moviéndose lentamente]&lt;br data-end=&quot;565&quot; data-start=&quot;562&quot;&gt;&lt;br/&gt;📏 [Texto en pantalla: “Pendiente = 0”]&lt;/p&gt;&lt;p data-end=&quot;604&quot; data-start=&quot;483&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;702&quot; data-start=&quot;608&quot;&gt;&quot;Como ya sabes, en esta pista &lt;strong data-end=&quot;661&quot; data-start=&quot;639&quot;&gt;no hay inclinación&lt;/strong&gt;, así que la pendiente es igual a cero.&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;604&quot; data-start=&quot;483&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[Cambia la escena a una pista inclinada, vista en 2D con el auto al inicio]&lt;/span&gt;&lt;/p&gt;&lt;p data-end=&quot;787&quot; data-start=&quot;709&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;903&quot; data-start=&quot;791&quot;&gt;&quot;Pero ahora te estarás preguntando… ¿cómo se calcula la pendiente de una pista cuando &lt;strong data-end=&quot;884&quot; data-start=&quot;878&quot;&gt;sí&lt;/strong&gt; hay inclinación?&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;1001&quot; data-start=&quot;910&quot;&gt;[Aparece una imagen de la &lt;strong data-end=&quot;966&quot; data-start=&quot;940&quot;&gt;altimetría de la pista&lt;/strong&gt; o el trazado 2D con líneas rectas]&lt;/p&gt;&lt;p data-end=&quot;1001&quot; data-start=&quot;910&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1116&quot; data-start=&quot;1005&quot;&gt;&quot;Bueno, para eso necesitamos una herramienta clave: la &lt;strong data-end=&quot;1083&quot; data-start=&quot;1061&quot;&gt;imagen de la pista&lt;/strong&gt; vista desde arriba, como esta.&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;1001&quot; data-start=&quot;910&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1197&quot; data-start=&quot;1121&quot;&gt;&quot;Esta imagen nos muestra la forma del terreno: subidas, bajadas y rectas.&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;1380&quot; data-start=&quot;1204&quot;&gt;[Se marcan dos puntos: el punto donde comienza el auto y donde termina el recorrido]&lt;br data-end=&quot;1294&quot; data-start=&quot;1291&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-end=&quot;1380&quot; data-start=&quot;1204&quot;&gt;[Coordenadas aparecen sobre cada punto: por ejemplo, Inicio (2, 3) – Final (10, 7)]&lt;/p&gt;&lt;p data-end=&quot;1380&quot; data-start=&quot;1204&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1499&quot; data-start=&quot;1384&quot;&gt;&quot;Ahora seleccionamos dos puntos importantes: el punto &lt;strong data-end=&quot;1467&quot; data-start=&quot;1439&quot;&gt;donde inicias la carrera&lt;/strong&gt; y el punto &lt;strong data-end=&quot;1496&quot; data-start=&quot;1479&quot;&gt;donde termina&lt;/strong&gt;.&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;1570&quot; data-start=&quot;1506&quot;&gt;[Aparece la fórmula en pantalla: &lt;code data-end=&quot;1569&quot; data-start=&quot;1542&quot;&gt;m = (y₂ - y₁) / (x₂ - x₁)&lt;/code&gt;]&lt;/p&gt;&lt;p data-end=&quot;1570&quot; data-start=&quot;1506&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1661&quot; data-start=&quot;1574&quot;&gt;&quot;Con esos puntos, usamos la fórmula de la pendiente:&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;1570&quot; data-start=&quot;1506&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1661&quot; data-start=&quot;1574&quot;&gt;&lt;strong data-end=&quot;1659&quot; data-start=&quot;1630&quot;&gt;m = (y₂ - y₁) / (x₂ - x₁)&lt;/strong&gt;&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;1570&quot; data-start=&quot;1506&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1759&quot; data-start=&quot;1665&quot;&gt;&quot;Reemplazamos los valores… y ¡así obtenemos la pendiente exacta de esa sección de la pista!&quot;&lt;/em&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="KE1zYMi7UNZFZbIT8Z2D-89">
+          <mxGeometry x="18" y="18" width="562" height="609" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1974.5556369357637" y="675.6666666666665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-92" value="&lt;blockquote data-end=&quot;464&quot; data-start=&quot;249&quot;&gt;&lt;blockquote data-end=&quot;397&quot; data-start=&quot;318&quot;&gt;&lt;p data-end=&quot;397&quot; data-start=&quot;320&quot;&gt;&lt;em data-end=&quot;397&quot; data-start=&quot;320&quot;&gt;&quot;Muy bien, piloto... ¡ahora es tu turno de poner en práctica lo aprendido!&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p data-end=&quot;464&quot; data-start=&quot;399&quot;&gt;📸 [Aparece una nueva pista 2D con un auto preparado para correr]&lt;/p&gt;&lt;blockquote data-end=&quot;597&quot; data-start=&quot;466&quot;&gt;&lt;p data-end=&quot;597&quot; data-start=&quot;468&quot;&gt;&lt;em data-end=&quot;597&quot; data-start=&quot;468&quot;&gt;&quot;Observa con atención esta pista. En unos segundos, un piloto correrá por ahí… pero antes de que arranque, necesito tu ayuda.&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote data-end=&quot;745&quot; data-start=&quot;599&quot;&gt;&lt;p data-end=&quot;745&quot; data-start=&quot;601&quot;&gt;&lt;em data-end=&quot;745&quot; data-start=&quot;601&quot;&gt;&quot;Calcula la &lt;strong data-end=&quot;627&quot; data-start=&quot;614&quot;&gt;pendiente&lt;/strong&gt; de esta pista. Usa lo que ya sabes: identifica dos puntos —el inicio y el final del recorrido&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p data-end=&quot;803&quot; data-start=&quot;747&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;932&quot; data-start=&quot;807&quot;&gt;&quot;Recuerda: puedes ir al botón de &lt;strong data-end=&quot;856&quot; data-start=&quot;841&quot;&gt;Información&lt;/strong&gt; si necesitas repasar conceptos importantes que te expliqué anteriormente.&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;981&quot; data-start=&quot;934&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1037&quot; data-start=&quot;985&quot;&gt;&quot;Tú tienes el conocimiento… ahora te toca usarlo.&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;464&quot; data-start=&quot;251&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1071&quot; data-start=&quot;1042&quot;&gt;&quot;¡Nos vemos en un momento!&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="729" y="401" width="530" height="547.64" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-93" value="Informacion&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="769" y="404" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-94" value="MAPA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="931" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-95" value="Vamos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-97" target="KE1zYMi7UNZFZbIT8Z2D-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-97" value="&lt;blockquote data-end=&quot;464&quot; data-start=&quot;249&quot;&gt;&lt;p data-end=&quot;464&quot; data-start=&quot;251&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;blockquote data-end=&quot;416&quot; data-start=&quot;252&quot;&gt;&lt;blockquote data-end=&quot;370&quot; data-start=&quot;196&quot;&gt;&lt;p data-end=&quot;370&quot; data-start=&quot;198&quot;&gt;&lt;em data-end=&quot;266&quot; data-start=&quot;198&quot;&gt;&quot;¡Excelente! Ahora has llegado a una nueva sección del recorrido.&quot;&lt;/em&gt;&lt;br data-end=&quot;269&quot; data-start=&quot;266&quot;&gt;&lt;em data-end=&quot;370&quot; data-start=&quot;271&quot;&gt;&quot;¿Lo notas? El camino ahora comienza a &lt;strong data-end=&quot;324&quot; data-start=&quot;311&quot;&gt;descender&lt;/strong&gt;. Estás frente a una &lt;strong data-end=&quot;367&quot; data-start=&quot;345&quot;&gt;pendiente negativa&lt;/strong&gt;.&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote data-end=&quot;540&quot; data-start=&quot;372&quot;&gt;&lt;p data-end=&quot;540&quot; data-start=&quot;374&quot;&gt;&lt;em data-end=&quot;540&quot; data-start=&quot;374&quot;&gt;&quot;En términos matemáticos, esto significa que por cada paso que das hacia adelante, también vas bajando. La pendiente de esta recta es un número &lt;strong data-end=&quot;537&quot; data-start=&quot;519&quot;&gt;menor que cero&lt;/strong&gt;.&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote data-end=&quot;690&quot; data-start=&quot;542&quot;&gt;&lt;p data-end=&quot;690&quot; data-start=&quot;544&quot;&gt;&lt;em data-end=&quot;690&quot; data-start=&quot;544&quot;&gt;&quot;Conducir cuesta abajo es más rápido, pero también requiere control. La pendiente negativa puede parecer fácil… ¡pero cuidado con la velocidad!&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p data-end=&quot;416&quot; data-start=&quot;254&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;827&quot; data-start=&quot;694&quot;&gt;&quot;Así como antes subías al avanzar, ahora estás bajando. Eso es lo que hace única a cada pista: su &lt;strong data-end=&quot;808&quot; data-start=&quot;793&quot;&gt;inclinación&lt;/strong&gt; o &lt;strong data-end=&quot;824&quot; data-start=&quot;811&quot;&gt;pendiente&lt;/strong&gt;.&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;416&quot; data-start=&quot;254&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;827&quot; data-start=&quot;694&quot;&gt;&lt;em style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot; data-end=&quot;1227&quot; data-start=&quot;1110&quot;&gt;&lt;font size=&quot;3&quot;&gt;&quot;Cuando estés listo, avanza hacia la siguiente zona&quot;&lt;/font&gt;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1667" y="449" width="530" height="547.64" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-99" target="KE1zYMi7UNZFZbIT8Z2D-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2929" y="1172" />
+              <mxPoint x="573" y="1172" />
+              <mxPoint x="573" y="104" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-99" value="&lt;blockquote data-end=&quot;464&quot; data-start=&quot;249&quot;&gt;&lt;blockquote data-end=&quot;453&quot; data-start=&quot;270&quot;&gt;&lt;p data-end=&quot;453&quot; data-start=&quot;272&quot;&gt;&lt;em data-end=&quot;302&quot; data-start=&quot;272&quot;&gt;&quot;¡Muy buen trabajo, piloto!&quot;&lt;/em&gt;&lt;br data-end=&quot;305&quot; data-start=&quot;302&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;453&quot; data-start=&quot;307&quot;&gt;&quot;Has calculado la pendiente correctamente. Eso demuestra que estás entendiendo cómo funciona el terreno y cómo usar las matemáticas a tu favor.&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p data-end=&quot;537&quot; data-start=&quot;455&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-end=&quot;537&quot; data-start=&quot;455&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;607&quot; data-start=&quot;541&quot;&gt;&quot;Con esto, ya estás listo para enfrentar los rallys que vienen.&quot;&lt;/em&gt;&lt;/p&gt;&lt;blockquote data-end=&quot;719&quot; data-start=&quot;539&quot;&gt;&lt;p data-end=&quot;719&quot; data-start=&quot;541&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;719&quot; data-start=&quot;612&quot;&gt;&quot;¡Prepárate, porque lo que viene no solo pondrá a prueba tu habilidad al volante… sino también tu mente!&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;719&quot; data-start=&quot;541&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;🚗 &lt;/span&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;760&quot; data-start=&quot;724&quot;&gt;&quot;Nos vemos en la línea de salida…&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2664" y="444" width="530" height="547.64" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-100" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="2261" width="442" height="638" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-101" value="&lt;blockquote data-end=&quot;414&quot; data-start=&quot;233&quot;&gt;&lt;p data-end=&quot;414&quot; data-start=&quot;235&quot;&gt;&lt;em data-end=&quot;283&quot; data-start=&quot;235&quot;&gt;&quot;¡Bienvenido al mundo abierto de &lt;strong data-end=&quot;280&quot; data-start=&quot;269&quot;&gt;E_Rally&lt;/strong&gt;!&quot;&lt;/em&gt;&lt;br data-end=&quot;286&quot; data-start=&quot;283&quot;&gt;&lt;em data-end=&quot;414&quot; data-start=&quot;288&quot;&gt;&quot;Aquí podrás explorar libremente y entrar en las carreras que pondrán a&amp;nbsp;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;414&quot; data-start=&quot;235&quot;&gt;&lt;em data-end=&quot;414&quot; data-start=&quot;288&quot;&gt;prueba tus habilidades matemáticas y de conducción.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote data-end=&quot;687&quot; data-start=&quot;503&quot;&gt;&lt;p data-end=&quot;687&quot; data-start=&quot;505&quot;&gt;&lt;em data-end=&quot;620&quot; data-start=&quot;505&quot;&gt;&quot;Cada curva, cada subida y cada cálculo te acercará a convertirte&amp;nbsp;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;687&quot; data-start=&quot;505&quot;&gt;&lt;em data-end=&quot;620&quot; data-start=&quot;505&quot;&gt;en un verdadero maestro del rally inteligente.&quot;&lt;/em&gt;&lt;br data-end=&quot;623&quot; data-start=&quot;620&quot;&gt;&lt;em data-end=&quot;687&quot; data-start=&quot;625&quot;&gt;&quot;¡Te deseo lo mejor, piloto… el mundo de E_Rally te espera!&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KE1zYMi7UNZFZbIT8Z2D-100">
+          <mxGeometry x="-28" y="125" width="484" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-102" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="2660" width="825" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-103" value="&lt;blockquote data-end=&quot;368&quot; data-start=&quot;264&quot;&gt;&lt;p data-end=&quot;368&quot; data-start=&quot;266&quot;&gt;&lt;em data-end=&quot;368&quot; data-start=&quot;266&quot;&gt;&quot;Antes de entrar a una carrera, recuerda algo muy importante: no todos los motores funcionan igual.&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p data-end=&quot;465&quot; data-start=&quot;370&quot;&gt;🚗 [Aparecen diferentes motores en pantalla, con estadísticas: potencia, aceleración, tracción]&lt;/p&gt;&lt;blockquote data-end=&quot;590&quot; data-start=&quot;467&quot;&gt;&lt;p data-end=&quot;590&quot; data-start=&quot;469&quot;&gt;&lt;em data-end=&quot;590&quot; data-start=&quot;469&quot;&gt;&quot;Cada motor tiene un rendimiento distinto, y su desempeño puede cambiar mucho según la pista en la que vayas a correr.&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p data-end=&quot;666&quot; data-start=&quot;592&quot;&gt;📈 [Muestra un ejemplo visual: pista con pendiente positiva muy inclinada]&lt;/p&gt;&lt;blockquote data-end=&quot;794&quot; data-start=&quot;668&quot;&gt;&lt;p data-end=&quot;794&quot; data-start=&quot;670&quot;&gt;&lt;em data-end=&quot;794&quot; data-start=&quot;670&quot;&gt;&quot;Por ejemplo, si vas a correr en una pista con &lt;strong data-end=&quot;740&quot; data-start=&quot;718&quot;&gt;pendiente positiva&lt;/strong&gt;, necesitarás un motor con &lt;strong data-end=&quot;791&quot; data-start=&quot;767&quot;&gt;más fuerza de subida&lt;/strong&gt;.&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p data-end=&quot;861&quot; data-start=&quot;796&quot;&gt;📉 [Luego muestra una pista con pendiente negativa o recta larga]&lt;/p&gt;&lt;blockquote data-end=&quot;972&quot; data-start=&quot;863&quot;&gt;&lt;p data-end=&quot;972&quot; data-start=&quot;865&quot;&gt;&lt;em data-end=&quot;972&quot; data-start=&quot;865&quot;&gt;&quot;Si es una pista descendente o con curvas suaves, podrías usar uno con mejor velocidad máxima o control.&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p data-end=&quot;976&quot; data-start=&quot;974&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1122&quot; data-start=&quot;980&quot;&gt;&quot;Por eso, conocer la &lt;strong data-end=&quot;1027&quot; data-start=&quot;1002&quot;&gt;pendiente de la pista&lt;/strong&gt; no es solo un dato matemático… es clave para tomar decisiones estratégicas y ganar carreras.&quot;&lt;/em&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1914" y="2670" width="762" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-104" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;La pendiente representa cuánto sube o baja una pista al avanzar en el eje horizontal. Es el &quot;grado de inclinación&quot; que tiene un tramo de la pista.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;En matemáticas, la pendiente se representa con la letra &quot;m&quot; en la ecuación de una recta:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;y = mx+b&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Si un tramo de la pista es recto y con una inclinación constante (como una rampa), podemos representarlo como una función lineal.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;`El eje x representa la distancia horizontal recorrida.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;El eje y representa la altura o elevación del terreno.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Supongamos que tienes dos puntos de la pista:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;* Punto de incio(x1,y1)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;* Punto&amp;nbsp; final(x2,y2)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;La pendinte se calcula de la siguiente forma:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;m = y2-y1/x2-x1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;Cambio en la altura dividido por el cambio en la distancia&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;******&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3203" y="-1083" width="633" height="552" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-105" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;Estructura de carpetas.&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3180" y="-740" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-106" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3180" y="-680" width="590" height="830" as="geometry">
+            <mxRectangle x="-3180" y="-680" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-107" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KE1zYMi7UNZFZbIT8Z2D-106">
+          <mxGeometry y="20" width="590" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-108" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;res://&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(40, 119, 255));&quot;&gt;&amp;gt;&amp;nbsp; Assets;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(40, 119, 255));&quot;&gt;&amp;gt;&amp;gt; 2D&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(40, 119, 255));&quot;&gt;&amp;gt;&amp;gt;&amp;gt; Usuarios_texturas&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(40, 119, 255));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; Navegacion&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(40, 119, 255));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; Imagenes&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(40, 119, 255));&quot;&gt;&amp;gt;&amp;gt; 3D(Cada modelo tiene su texturas)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(40, 119, 255));&quot;&gt;&amp;gt;&amp;gt;&amp;gt; carro_modelo&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(40, 119, 255));&quot;&gt;&amp;gt;&amp;gt;&amp;gt; Modelos_escenarios&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;Escenas:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(153, 255, 204); background-color: transparent;&quot;&gt;Escenas_2D:&amp;nbsp; (cada escena tiene su codigo dentro de la carpeta):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt; Main_menu&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt; Menu_niveles&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;Menu_Introduccion.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;Bienvenido_a_E_Rally&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;2&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;3&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;4&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;Rally_1&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;1&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;2&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;3&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;4&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;5&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;6&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;7&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;8&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;OPen_map&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 3D_open_world&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;2&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;3&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;4&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;5&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="KE1zYMi7UNZFZbIT8Z2D-106">
+          <mxGeometry x="20" y="40" width="380" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-109" value="&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;1&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-910" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-110" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;2&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-193" y="-920" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-111" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;3&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-910" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-112" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;4&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="-920" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-113" value="&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;1&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="931" y="-462.36" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-114" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;2&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="-472.36" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-115" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;3&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="-462.36" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-116" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;4&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="-480" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-117" value="&lt;font color=&quot;#cc6600&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;5&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3440" y="-1210" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-118" value="&lt;font color=&quot;#cc6600&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;6&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="802.5" y="291" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-119" value="&lt;font color=&quot;#cc6600&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;7&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="334" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-120" value="&lt;font color=&quot;#cc6600&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;8&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="334" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-121" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-573" y="214" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-123" target="KE1zYMi7UNZFZbIT8Z2D-132">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-693" y="269" />
+              <mxPoint x="-693" y="4" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-123" value="Jugar&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-543" y="254" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-125" target="KE1zYMi7UNZFZbIT8Z2D-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-125" value="Salir" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-543" y="304" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-127" target="KE1zYMi7UNZFZbIT8Z2D-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-127" value="Opciones y extras" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-543" y="354" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-128" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1262" y="-48" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-129" value="Estas seguro de salir?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1212" y="37" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-130" value="SI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1162" y="102" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-131" value="NO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1062" y="102" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-132" target="KE1zYMi7UNZFZbIT8Z2D-240">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-573" y="-210" />
+              <mxPoint x="-910" y="-210" />
+              <mxPoint x="-910" y="-660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-132" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-573" y="-136" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-134" target="KE1zYMi7UNZFZbIT8Z2D-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-134" value="Introduccion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-543" y="-86" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-136" target="KE1zYMi7UNZFZbIT8Z2D-194">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-5" y="104" />
+              <mxPoint x="-5" y="-10" />
+              <mxPoint x="483" y="-10" />
+              <mxPoint x="483" y="-230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-136" value="Rally_1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-373" y="-96" width="90" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-138" target="KE1zYMi7UNZFZbIT8Z2D-146">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-193" y="33" />
+              <mxPoint x="122" y="33" />
+              <mxPoint x="122" y="2106" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-138" value="Map" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-283" y="-96" width="90" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-140" target="KE1zYMi7UNZFZbIT8Z2D-181">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-180.00000000000045" y="-622.9314285714285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-140" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="-782.36" width="400" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-146" target="KE1zYMi7UNZFZbIT8Z2D-148">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="1976" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-146" target="KE1zYMi7UNZFZbIT8Z2D-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-146" target="KE1zYMi7UNZFZbIT8Z2D-154">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="2106" />
+              <mxPoint x="1000" y="2636" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-146" target="KE1zYMi7UNZFZbIT8Z2D-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-146" target="KE1zYMi7UNZFZbIT8Z2D-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-146" value="3D-open_world" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227" y="1966" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-148" target="KE1zYMi7UNZFZbIT8Z2D-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-148" value="Settings-engine-map&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;positive m&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1966" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-149" value="3D simulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1896" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-151" target="KE1zYMi7UNZFZbIT8Z2D-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-151" value="Settings-engine-map&lt;div&gt;negative m&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="993" y="2730" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-152" value="3D simulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1453" y="2660" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-154" target="KE1zYMi7UNZFZbIT8Z2D-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-154" value="Settings-engine-map&lt;div&gt;&amp;nbsp;m equal to cero&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1003" y="3035" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-155" value="3D simulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1463" y="2965" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-157" target="KE1zYMi7UNZFZbIT8Z2D-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-157" value="Settings-engine-map&lt;div&gt;b &amp;gt;0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1003" y="3355" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-158" value="3D simulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1463" y="3285" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-160" target="KE1zYMi7UNZFZbIT8Z2D-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-160" value="Settings-engine-map&lt;div&gt;b &amp;lt;0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1003" y="3665" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-161" value="3D simulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1463" y="3595" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-163" target="KE1zYMi7UNZFZbIT8Z2D-237">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-163" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1555" y="1130" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-165">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1845" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-165" value="Ajustes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1535" y="1140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1365.1176470588234" y="1610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-167" value="Creditos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1410" y="1140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-169">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-965" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-169" value="Sobre nosotros" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1285" y="1140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-170" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2045" y="1250" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-171" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1565" y="1610" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-172" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1072" y="1490" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-173" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2023.5" y="1310" width="358.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-174" value="creditos&lt;div&gt;asda&lt;/div&gt;&lt;div&gt;asd&lt;/div&gt;&lt;div&gt;ad&lt;/div&gt;&lt;div&gt;asd&lt;/div&gt;&lt;div&gt;as&lt;/div&gt;&lt;div&gt;da&lt;/div&gt;&lt;div&gt;sd&lt;/div&gt;&lt;div&gt;asd&lt;/div&gt;&lt;div&gt;asd&lt;/div&gt;&lt;div&gt;as&lt;/div&gt;&lt;div&gt;das&lt;/div&gt;&lt;div&gt;das&lt;/div&gt;&lt;div&gt;das&lt;/div&gt;&lt;div&gt;d&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1555" y="1645" width="365" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-175" value="video" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2005" y="1320" width="117" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-176" value="Audio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2005" y="1370" width="117" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-177" value="creditos&lt;div&gt;asda&lt;/div&gt;&lt;div&gt;asd&lt;/div&gt;&lt;div&gt;ad&lt;/div&gt;&lt;div&gt;asd&lt;/div&gt;&lt;div&gt;as&lt;/div&gt;&lt;div&gt;da&lt;/div&gt;&lt;div&gt;sd&lt;/div&gt;&lt;div&gt;asd&lt;/div&gt;&lt;div&gt;asd&lt;/div&gt;&lt;div&gt;as&lt;/div&gt;&lt;div&gt;das&lt;/div&gt;&lt;div&gt;das&lt;/div&gt;&lt;div&gt;das&lt;/div&gt;&lt;div&gt;d&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1054.5" y="1550" width="365" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-178" value="Mouse bonito, video del auto elegante, y que salir y ajustes se vean en pantalla principal." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-363" y="524" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-179" value="ver 1.5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-253" y="464" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-180" value="Bienvenido a E-Rally:&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&quot;¡Bienvenido a E_Rally ! Aquí no estás solo para correr… ¡estás aquí para conquistar cada curva con tu mente y cada salto con tus ideas!&quot;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&quot;Este no es un simple juego de carreras. Este es tu territorio, tu laboratorio de velocidad, donde cada pendiente es una ecuación… y cada giro, una incógnita por resolver.&quot;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&quot;Tú eres el arquitecto de tu victoria… o de tu derrota. Usarás herramientas matemáticas reales y las pondrás a prueba en cada pista.&quot;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;em data-end=&quot;475&quot; data-start=&quot;276&quot;&gt;&quot;Explora libremente. Compite contra el reloj, reta a tus compañeros o domina los desafíos secretos escondidos por todo el mapa. Cada prueba resuelta, ¡te hace más rápido, más sabio y más imparable!&lt;/em&gt;&lt;br data-end=&quot;478&quot; data-start=&quot;475&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;596&quot; data-start=&quot;480&quot;&gt;O si lo prefieres… explora libremente este software a tu ritmo. Lo que hagas de ahora en adelante… depende de ti.&quot;&lt;/em&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-695" y="-732.36" width="370" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-181" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="-790" width="320" height="335.29" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-182" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="-772.36" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-184">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="-587.36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-184" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot; data-end=&quot;435&quot; data-start=&quot;192&quot;&gt;Hola, jugador.&lt;/em&gt;&lt;/h1&gt;&lt;p&gt;&lt;em data-end=&quot;435&quot; data-start=&quot;192&quot;&gt;&lt;br&gt;¿Te gustó la introducción? Bueno… la persona que te habló hace un momento fui yo: Leonard.&lt;br data-end=&quot;304&quot; data-start=&quot;301&quot;&gt;&lt;br&gt;Voy a ser quien te acompañe en esta aventura, ayudándote a entender muchas cosas por aquí.&lt;br data-end=&quot;397&quot; data-start=&quot;394&quot;&gt;&lt;br&gt;Por ahora, empecemos con lo básico...&lt;/em&gt;&lt;br data-end=&quot;438&quot; data-start=&quot;435&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;542&quot; data-start=&quot;440&quot;&gt;Presiona la tecla de flecha hacia arriba en tu teclado… y arranca el coche.&lt;/em&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="-702.36" width="295" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-186" target="KE1zYMi7UNZFZbIT8Z2D-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-186" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-782.36" width="320" height="335.29" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-187" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;em data-end=&quot;435&quot; data-start=&quot;192&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;315&quot; data-start=&quot;193&quot;&gt;&quot;¡Muy bien! Ahora presiona las teclas de flecha &lt;strong data-end=&quot;253&quot; data-start=&quot;242&quot;&gt;derecha&lt;/strong&gt; e &lt;strong data-end=&quot;269&quot; data-start=&quot;256&quot;&gt;izquierda&lt;/strong&gt; para girar el automóvil en esas direcciones.&lt;/em&gt;&lt;br data-end=&quot;318&quot; data-start=&quot;315&quot;&gt;&lt;br/&gt;&lt;em data-end=&quot;381&quot; data-start=&quot;320&quot;&gt;Si necesitas detenerte, presiona la flecha &lt;strong data-end=&quot;379&quot; data-start=&quot;364&quot;&gt;hacia atrás&lt;/strong&gt;.&lt;/em&gt;&lt;br data-end=&quot;384&quot; data-start=&quot;381&quot;&gt;&lt;br/&gt;&lt;em data-end=&quot;569&quot; data-start=&quot;386&quot;&gt;Y aquí va un truco especial... si presionas la tecla &lt;strong data-end=&quot;451&quot; data-start=&quot;440&quot;&gt;espacio&lt;/strong&gt;, ¡podrás hacer que el auto derrape en las curvas! Aprende a dominarlo… te será muy útil en los desafíos que vienen.&quot;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="142.5" y="-710" width="295" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-188" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-772.36" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-189" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;em data-end=&quot;435&quot; data-start=&quot;192&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;315&quot; data-start=&quot;193&quot;&gt;&quot;¡Muy bien! Ahora presiona las teclas de flecha &lt;strong data-end=&quot;253&quot; data-start=&quot;242&quot;&gt;derecha&lt;/strong&gt; e &lt;strong data-end=&quot;269&quot; data-start=&quot;256&quot;&gt;izquierda&lt;/strong&gt; para girar el automóvil en esas direcciones.&lt;/em&gt;&lt;br data-end=&quot;318&quot; data-start=&quot;315&quot;&gt;&lt;br/&gt;&lt;em data-end=&quot;381&quot; data-start=&quot;320&quot;&gt;Si necesitas detenerte, presiona la flecha &lt;strong data-end=&quot;379&quot; data-start=&quot;364&quot;&gt;hacia atrás&lt;/strong&gt;.&lt;/em&gt;&lt;br data-end=&quot;384&quot; data-start=&quot;381&quot;&gt;&lt;br/&gt;&lt;em data-end=&quot;569&quot; data-start=&quot;386&quot;&gt;Y aquí va un truco especial... si presionas la tecla &lt;strong data-end=&quot;451&quot; data-start=&quot;440&quot;&gt;espacio&lt;/strong&gt;, ¡podrás hacer que el auto derrape en las curvas! Aprende a dominarlo… te será muy útil en los desafíos que vienen.&quot;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="-710" width="295" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-191" target="KE1zYMi7UNZFZbIT8Z2D-136">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="-447" />
+              <mxPoint x="520" y="-339" />
+              <mxPoint x="405" y="-339" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-191" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="-782.36" width="320" height="335.29" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-192" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;em data-end=&quot;211&quot; data-start=&quot;172&quot;&gt;&quot;¿Crees que ya dominas los controles?&lt;/em&gt;&lt;br data-end=&quot;214&quot; data-start=&quot;211&quot;&gt;&lt;br/&gt;&lt;em data-end=&quot;291&quot; data-start=&quot;216&quot;&gt;¿Quieres ir a la pista ahora o prefieres seguir practicando un poco más?&quot;&lt;/em&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="-729.72" width="295" height="219.72" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-194" target="KE1zYMi7UNZFZbIT8Z2D-195">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1500" y="-72.33333333333326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-194" value="&lt;blockquote data-end=&quot;464&quot; data-start=&quot;249&quot;&gt;&lt;p data-end=&quot;464&quot; data-start=&quot;251&quot;&gt;&lt;em data-end=&quot;296&quot; data-start=&quot;251&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&quot;&lt;font style=&quot;&quot;&gt;¡Bienvenido a tu &lt;strong style=&quot;&quot; data-end=&quot;293&quot; data-start=&quot;270&quot;&gt;prueba de conceptos&lt;/strong&gt;!&quot;&lt;/font&gt;&lt;/font&gt;&lt;/em&gt;&lt;font size=&quot;3&quot;&gt;&lt;br data-end=&quot;299&quot; data-start=&quot;296&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;464&quot; data-start=&quot;301&quot;&gt;&quot;Antes de comenzar los rallys oficiales, vamos a explorar algunas ideas clave que te ayudarán a entender cómo se comportan las pistas y cómo usarlas a tu favor.&quot;&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;&lt;p data-end=&quot;464&quot; data-start=&quot;251&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;594&quot; data-start=&quot;468&quot;&gt;&lt;font size=&quot;3&quot;&gt;&quot;Hoy vamos a hablar de la &lt;strong data-end=&quot;508&quot; data-start=&quot;495&quot;&gt;pendiente&lt;/strong&gt;, una herramienta matemática que nos permite saber qué tan inclinada está una recta.&quot;&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote data-end=&quot;594&quot; data-start=&quot;466&quot;&gt;&lt;p data-end=&quot;594&quot; data-start=&quot;468&quot;&gt;&lt;em style=&quot;font-size: medium; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;637&quot; data-start=&quot;598&quot;&gt;(El auto aparece en un espacio plano)&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote data-end=&quot;747&quot; data-start=&quot;596&quot;&gt;&lt;p data-end=&quot;747&quot; data-start=&quot;598&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;em data-end=&quot;747&quot; data-start=&quot;642&quot;&gt;&quot;En este momento estás en una pista completamente &lt;strong data-end=&quot;702&quot; data-start=&quot;693&quot;&gt;plana&lt;/strong&gt;. Puedes conducir libremente por esta zona.&quot;&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;&lt;p data-end=&quot;747&quot; data-start=&quot;598&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;897&quot; data-start=&quot;751&quot;&gt;&lt;font size=&quot;3&quot;&gt;&quot;¿Notas algo? Aquí no hay subidas ni bajadas. Eso significa que la &lt;strong data-end=&quot;851&quot; data-start=&quot;819&quot;&gt;pendiente del camino es cero&lt;/strong&gt;. En otras palabras: &lt;strong data-end=&quot;894&quot; data-start=&quot;872&quot;&gt;no hay inclinación&lt;/strong&gt;.&quot;&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;747&quot; data-start=&quot;598&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1106&quot; data-start=&quot;901&quot;&gt;&lt;font size=&quot;3&quot;&gt;&quot;Esto es importante, porque a medida que avances en el juego, las pistas cambiarán de forma, y entender la pendiente te ayudará a tomar mejores decisiones y resolver desafíos matemáticos en tiempo real.&quot;&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;747&quot; data-start=&quot;598&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1227&quot; data-start=&quot;1110&quot;&gt;&lt;font size=&quot;3&quot;&gt;&quot;Cuando estés listo, avanza hacia la siguiente zona&quot;&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-340.28999999999996" width="460" height="535.29" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-195" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="-347.64" width="530" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-197" target="KE1zYMi7UNZFZbIT8Z2D-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-197" value="&lt;blockquote data-end=&quot;464&quot; data-start=&quot;249&quot;&gt;&lt;p data-end=&quot;464&quot; data-start=&quot;251&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;301&quot; data-start=&quot;254&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&quot;Muy bien… ¡has llegado a la siguiente zona!&quot;&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;&lt;blockquote data-end=&quot;416&quot; data-start=&quot;252&quot;&gt;&lt;p data-end=&quot;416&quot; data-start=&quot;254&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;416&quot; data-start=&quot;306&quot;&gt;&lt;font size=&quot;3&quot;&gt;&quot;Como puedes ver, ahora el camino empieza a &lt;strong data-end=&quot;360&quot; data-start=&quot;351&quot;&gt;subir&lt;/strong&gt;. Esta vez, la pista tiene una &lt;strong data-end=&quot;413&quot; data-start=&quot;391&quot;&gt;pendiente positiva&lt;/strong&gt;.&quot;&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;416&quot; data-start=&quot;254&quot;&gt;&lt;em style=&quot;font-size: medium; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;443&quot; data-start=&quot;420&quot;&gt;&quot;¿Qué significa eso?&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote data-end=&quot;628&quot; data-start=&quot;418&quot;&gt;&lt;p data-end=&quot;628&quot; data-start=&quot;420&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;em data-end=&quot;628&quot; data-start=&quot;448&quot;&gt;&quot;Significa que por cada paso que das hacia adelante, también estás subiendo. En matemáticas, eso quiere decir que la &lt;strong data-end=&quot;579&quot; data-start=&quot;566&quot;&gt;pendiente&lt;/strong&gt; de esta recta es un número &lt;strong data-end=&quot;625&quot; data-start=&quot;607&quot;&gt;mayor que cero&lt;/strong&gt;.&quot;&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;&lt;p data-end=&quot;628&quot; data-start=&quot;420&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;708&quot; data-start=&quot;632&quot;&gt;&lt;font size=&quot;3&quot;&gt;&quot;Cuanto más inclinada esté la pista, mayor será el valor de la pendiente.&quot;&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote data-end=&quot;884&quot; data-start=&quot;710&quot;&gt;&lt;p data-end=&quot;884&quot; data-start=&quot;712&quot;&gt;&lt;em data-end=&quot;884&quot; data-start=&quot;712&quot;&gt;&lt;font size=&quot;3&quot;&gt;&quot;Siente cómo el auto se esfuerza un poco más al subir… eso también es parte del aprendizaje. Conducir en una pendiente positiva requiere más precisión… y más estrategia.&quot;&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;884&quot; data-start=&quot;712&quot;&gt;&lt;em data-end=&quot;884&quot; data-start=&quot;712&quot;&gt;&lt;em style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot; data-end=&quot;1227&quot; data-start=&quot;1110&quot;&gt;&lt;font size=&quot;3&quot;&gt;&quot;Cuando estés listo, avanza hacia la siguiente zona&quot;&lt;/font&gt;&lt;/em&gt;&lt;font size=&quot;3&quot;&gt;&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="-347.64" width="530" height="547.64" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-199" target="KE1zYMi7UNZFZbIT8Z2D-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-199" value="&lt;blockquote data-end=&quot;464&quot; data-start=&quot;249&quot;&gt;&lt;p data-end=&quot;464&quot; data-start=&quot;251&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;blockquote data-end=&quot;416&quot; data-start=&quot;252&quot;&gt;&lt;blockquote data-end=&quot;370&quot; data-start=&quot;196&quot;&gt;&lt;p data-end=&quot;370&quot; data-start=&quot;198&quot;&gt;&lt;em data-end=&quot;266&quot; data-start=&quot;198&quot;&gt;&quot;¡Excelente! Ahora has llegado a una nueva sección del recorrido.&quot;&lt;/em&gt;&lt;br data-end=&quot;269&quot; data-start=&quot;266&quot;&gt;&lt;em data-end=&quot;370&quot; data-start=&quot;271&quot;&gt;&quot;¿Lo notas? El camino ahora comienza a &lt;strong data-end=&quot;324&quot; data-start=&quot;311&quot;&gt;descender&lt;/strong&gt;. Estás frente a una &lt;strong data-end=&quot;367&quot; data-start=&quot;345&quot;&gt;pendiente negativa&lt;/strong&gt;.&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote data-end=&quot;540&quot; data-start=&quot;372&quot;&gt;&lt;p data-end=&quot;540&quot; data-start=&quot;374&quot;&gt;&lt;em data-end=&quot;540&quot; data-start=&quot;374&quot;&gt;&quot;En términos matemáticos, esto significa que por cada paso que das hacia adelante, también vas bajando. La pendiente de esta recta es un número &lt;strong data-end=&quot;537&quot; data-start=&quot;519&quot;&gt;menor que cero&lt;/strong&gt;.&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote data-end=&quot;690&quot; data-start=&quot;542&quot;&gt;&lt;p data-end=&quot;690&quot; data-start=&quot;544&quot;&gt;&lt;em data-end=&quot;690&quot; data-start=&quot;544&quot;&gt;&quot;Conducir cuesta abajo es más rápido, pero también requiere control. La pendiente negativa puede parecer fácil… ¡pero cuidado con la velocidad!&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p data-end=&quot;416&quot; data-start=&quot;254&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;827&quot; data-start=&quot;694&quot;&gt;&quot;Así como antes subías al avanzar, ahora estás bajando. Eso es lo que hace única a cada pista: su &lt;strong data-end=&quot;808&quot; data-start=&quot;793&quot;&gt;inclinación&lt;/strong&gt; o &lt;strong data-end=&quot;824&quot; data-start=&quot;811&quot;&gt;pendiente&lt;/strong&gt;.&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;416&quot; data-start=&quot;254&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;827&quot; data-start=&quot;694&quot;&gt;&lt;em style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot; data-end=&quot;1227&quot; data-start=&quot;1110&quot;&gt;&lt;font size=&quot;3&quot;&gt;&quot;Cuando estés listo, avanza hacia la siguiente zona&quot;&lt;/font&gt;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1951" y="-347.64" width="530" height="547.64" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-202" target="KE1zYMi7UNZFZbIT8Z2D-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-202" target="KE1zYMi7UNZFZbIT8Z2D-218">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3300.2855573381703" y="-706.4285757882254" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-202" value="&lt;blockquote data-end=&quot;464&quot; data-start=&quot;249&quot;&gt;&lt;p data-end=&quot;464&quot; data-start=&quot;251&quot;&gt;Video explicativo de como calcular la pendiente&lt;/p&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2724" y="-347.64" width="530" height="547.64" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-203" value="" style="swimlane;startSize=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="2724" y="208" width="50" height="44" as="geometry">
+            <mxRectangle x="2724" y="208" width="597" height="656" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-204" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;m =&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&quot;¿Recuerdas este auto? Este fue el que usamos cuando hablábamos de &lt;strong data-end=&quot;478&quot; data-start=&quot;460&quot;&gt;pendiente cero&lt;/strong&gt;.&quot;&lt;/p&gt;&lt;p data-end=&quot;604&quot; data-start=&quot;483&quot;&gt;[Mostrar el auto sobre una pista completamente plana, moviéndose lentamente]&lt;br data-end=&quot;565&quot; data-start=&quot;562&quot;&gt;&lt;br/&gt;📏 [Texto en pantalla: “Pendiente = 0”]&lt;/p&gt;&lt;p data-end=&quot;604&quot; data-start=&quot;483&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;702&quot; data-start=&quot;608&quot;&gt;&quot;Como ya sabes, en esta pista &lt;strong data-end=&quot;661&quot; data-start=&quot;639&quot;&gt;no hay inclinación&lt;/strong&gt;, así que la pendiente es igual a cero.&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;604&quot; data-start=&quot;483&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[Cambia la escena a una pista inclinada, vista en 2D con el auto al inicio]&lt;/span&gt;&lt;/p&gt;&lt;p data-end=&quot;787&quot; data-start=&quot;709&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;903&quot; data-start=&quot;791&quot;&gt;&quot;Pero ahora te estarás preguntando… ¿cómo se calcula la pendiente de una pista cuando &lt;strong data-end=&quot;884&quot; data-start=&quot;878&quot;&gt;sí&lt;/strong&gt; hay inclinación?&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;1001&quot; data-start=&quot;910&quot;&gt;[Aparece una imagen de la &lt;strong data-end=&quot;966&quot; data-start=&quot;940&quot;&gt;altimetría de la pista&lt;/strong&gt; o el trazado 2D con líneas rectas]&lt;/p&gt;&lt;p data-end=&quot;1001&quot; data-start=&quot;910&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1116&quot; data-start=&quot;1005&quot;&gt;&quot;Bueno, para eso necesitamos una herramienta clave: la &lt;strong data-end=&quot;1083&quot; data-start=&quot;1061&quot;&gt;imagen de la pista&lt;/strong&gt; vista desde arriba, como esta.&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;1001&quot; data-start=&quot;910&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1197&quot; data-start=&quot;1121&quot;&gt;&quot;Esta imagen nos muestra la forma del terreno: subidas, bajadas y rectas.&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;1380&quot; data-start=&quot;1204&quot;&gt;[Se marcan dos puntos: el punto donde comienza el auto y donde termina el recorrido]&lt;br data-end=&quot;1294&quot; data-start=&quot;1291&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-end=&quot;1380&quot; data-start=&quot;1204&quot;&gt;[Coordenadas aparecen sobre cada punto: por ejemplo, Inicio (2, 3) – Final (10, 7)]&lt;/p&gt;&lt;p data-end=&quot;1380&quot; data-start=&quot;1204&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1499&quot; data-start=&quot;1384&quot;&gt;&quot;Ahora seleccionamos dos puntos importantes: el punto &lt;strong data-end=&quot;1467&quot; data-start=&quot;1439&quot;&gt;donde inicias la carrera&lt;/strong&gt; y el punto &lt;strong data-end=&quot;1496&quot; data-start=&quot;1479&quot;&gt;donde termina&lt;/strong&gt;.&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;1570&quot; data-start=&quot;1506&quot;&gt;[Aparece la fórmula en pantalla: &lt;code data-end=&quot;1569&quot; data-start=&quot;1542&quot;&gt;m = (y₂ - y₁) / (x₂ - x₁)&lt;/code&gt;]&lt;/p&gt;&lt;p data-end=&quot;1570&quot; data-start=&quot;1506&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1661&quot; data-start=&quot;1574&quot;&gt;&quot;Con esos puntos, usamos la fórmula de la pendiente:&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;1570&quot; data-start=&quot;1506&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1661&quot; data-start=&quot;1574&quot;&gt;&lt;strong data-end=&quot;1659&quot; data-start=&quot;1630&quot;&gt;m = (y₂ - y₁) / (x₂ - x₁)&lt;/strong&gt;&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;1570&quot; data-start=&quot;1506&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1759&quot; data-start=&quot;1665&quot;&gt;&quot;Reemplazamos los valores… y ¡así obtenemos la pendiente exacta de esa sección de la pista!&quot;&lt;/em&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="KE1zYMi7UNZFZbIT8Z2D-203">
+          <mxGeometry x="18" y="18" width="562" height="609" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-206">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1974.5556369357637" y="675.6666666666665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-206" value="&lt;blockquote data-end=&quot;464&quot; data-start=&quot;249&quot;&gt;&lt;blockquote data-end=&quot;397&quot; data-start=&quot;318&quot;&gt;&lt;p data-end=&quot;397&quot; data-start=&quot;320&quot;&gt;&lt;em data-end=&quot;397&quot; data-start=&quot;320&quot;&gt;&quot;Muy bien, piloto... ¡ahora es tu turno de poner en práctica lo aprendido!&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p data-end=&quot;464&quot; data-start=&quot;399&quot;&gt;📸 [Aparece una nueva pista 2D con un auto preparado para correr]&lt;/p&gt;&lt;blockquote data-end=&quot;597&quot; data-start=&quot;466&quot;&gt;&lt;p data-end=&quot;597&quot; data-start=&quot;468&quot;&gt;&lt;em data-end=&quot;597&quot; data-start=&quot;468&quot;&gt;&quot;Observa con atención esta pista. En unos segundos, un piloto correrá por ahí… pero antes de que arranque, necesito tu ayuda.&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote data-end=&quot;745&quot; data-start=&quot;599&quot;&gt;&lt;p data-end=&quot;745&quot; data-start=&quot;601&quot;&gt;&lt;em data-end=&quot;745&quot; data-start=&quot;601&quot;&gt;&quot;Calcula la &lt;strong data-end=&quot;627&quot; data-start=&quot;614&quot;&gt;pendiente&lt;/strong&gt; de esta pista. Usa lo que ya sabes: identifica dos puntos —el inicio y el final del recorrido&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p data-end=&quot;803&quot; data-start=&quot;747&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;932&quot; data-start=&quot;807&quot;&gt;&quot;Recuerda: puedes ir al botón de &lt;strong data-end=&quot;856&quot; data-start=&quot;841&quot;&gt;Información&lt;/strong&gt; si necesitas repasar conceptos importantes que te expliqué anteriormente.&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;981&quot; data-start=&quot;934&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1037&quot; data-start=&quot;985&quot;&gt;&quot;Tú tienes el conocimiento… ahora te toca usarlo.&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;464&quot; data-start=&quot;251&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1071&quot; data-start=&quot;1042&quot;&gt;&quot;¡Nos vemos en un momento!&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="729" y="401" width="530" height="547.64" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-207" value="Informacion&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="769" y="404" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-208" value="MAPA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="931" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-209" value="Vamos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-211" target="KE1zYMi7UNZFZbIT8Z2D-213">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-211" value="&lt;blockquote data-end=&quot;464&quot; data-start=&quot;249&quot;&gt;&lt;p data-end=&quot;464&quot; data-start=&quot;251&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;blockquote data-end=&quot;416&quot; data-start=&quot;252&quot;&gt;&lt;blockquote data-end=&quot;370&quot; data-start=&quot;196&quot;&gt;&lt;p data-end=&quot;370&quot; data-start=&quot;198&quot;&gt;&lt;em data-end=&quot;266&quot; data-start=&quot;198&quot;&gt;&quot;¡Excelente! Ahora has llegado a una nueva sección del recorrido.&quot;&lt;/em&gt;&lt;br data-end=&quot;269&quot; data-start=&quot;266&quot;&gt;&lt;em data-end=&quot;370&quot; data-start=&quot;271&quot;&gt;&quot;¿Lo notas? El camino ahora comienza a &lt;strong data-end=&quot;324&quot; data-start=&quot;311&quot;&gt;descender&lt;/strong&gt;. Estás frente a una &lt;strong data-end=&quot;367&quot; data-start=&quot;345&quot;&gt;pendiente negativa&lt;/strong&gt;.&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote data-end=&quot;540&quot; data-start=&quot;372&quot;&gt;&lt;p data-end=&quot;540&quot; data-start=&quot;374&quot;&gt;&lt;em data-end=&quot;540&quot; data-start=&quot;374&quot;&gt;&quot;En términos matemáticos, esto significa que por cada paso que das hacia adelante, también vas bajando. La pendiente de esta recta es un número &lt;strong data-end=&quot;537&quot; data-start=&quot;519&quot;&gt;menor que cero&lt;/strong&gt;.&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote data-end=&quot;690&quot; data-start=&quot;542&quot;&gt;&lt;p data-end=&quot;690&quot; data-start=&quot;544&quot;&gt;&lt;em data-end=&quot;690&quot; data-start=&quot;544&quot;&gt;&quot;Conducir cuesta abajo es más rápido, pero también requiere control. La pendiente negativa puede parecer fácil… ¡pero cuidado con la velocidad!&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p data-end=&quot;416&quot; data-start=&quot;254&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;827&quot; data-start=&quot;694&quot;&gt;&quot;Así como antes subías al avanzar, ahora estás bajando. Eso es lo que hace única a cada pista: su &lt;strong data-end=&quot;808&quot; data-start=&quot;793&quot;&gt;inclinación&lt;/strong&gt; o &lt;strong data-end=&quot;824&quot; data-start=&quot;811&quot;&gt;pendiente&lt;/strong&gt;.&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;416&quot; data-start=&quot;254&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;827&quot; data-start=&quot;694&quot;&gt;&lt;em style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot; data-end=&quot;1227&quot; data-start=&quot;1110&quot;&gt;&lt;font size=&quot;3&quot;&gt;&quot;Cuando estés listo, avanza hacia la siguiente zona&quot;&lt;/font&gt;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1667" y="449" width="530" height="547.64" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-213" target="KE1zYMi7UNZFZbIT8Z2D-138">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2929" y="1172" />
+              <mxPoint x="573" y="1172" />
+              <mxPoint x="573" y="104" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-213" value="&lt;blockquote data-end=&quot;464&quot; data-start=&quot;249&quot;&gt;&lt;blockquote data-end=&quot;453&quot; data-start=&quot;270&quot;&gt;&lt;p data-end=&quot;453&quot; data-start=&quot;272&quot;&gt;&lt;em data-end=&quot;302&quot; data-start=&quot;272&quot;&gt;&quot;¡Muy buen trabajo, piloto!&quot;&lt;/em&gt;&lt;br data-end=&quot;305&quot; data-start=&quot;302&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;453&quot; data-start=&quot;307&quot;&gt;&quot;Has calculado la pendiente correctamente. Eso demuestra que estás entendiendo cómo funciona el terreno y cómo usar las matemáticas a tu favor.&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p data-end=&quot;537&quot; data-start=&quot;455&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-end=&quot;537&quot; data-start=&quot;455&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;607&quot; data-start=&quot;541&quot;&gt;&quot;Con esto, ya estás listo para enfrentar los rallys que vienen.&quot;&lt;/em&gt;&lt;/p&gt;&lt;blockquote data-end=&quot;719&quot; data-start=&quot;539&quot;&gt;&lt;p data-end=&quot;719&quot; data-start=&quot;541&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;719&quot; data-start=&quot;612&quot;&gt;&quot;¡Prepárate, porque lo que viene no solo pondrá a prueba tu habilidad al volante… sino también tu mente!&quot;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;719&quot; data-start=&quot;541&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;🚗 &lt;/span&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;760&quot; data-start=&quot;724&quot;&gt;&quot;Nos vemos en la línea de salida…&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2664" y="444" width="530" height="547.64" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-214" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="2261" width="442" height="638" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-215" value="&lt;blockquote data-end=&quot;414&quot; data-start=&quot;233&quot;&gt;&lt;p data-end=&quot;414&quot; data-start=&quot;235&quot;&gt;&lt;em data-end=&quot;283&quot; data-start=&quot;235&quot;&gt;&quot;¡Bienvenido al mundo abierto de &lt;strong data-end=&quot;280&quot; data-start=&quot;269&quot;&gt;E_Rally&lt;/strong&gt;!&quot;&lt;/em&gt;&lt;br data-end=&quot;286&quot; data-start=&quot;283&quot;&gt;&lt;em data-end=&quot;414&quot; data-start=&quot;288&quot;&gt;&quot;Aquí podrás explorar libremente y entrar en las carreras que pondrán a&amp;nbsp;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;414&quot; data-start=&quot;235&quot;&gt;&lt;em data-end=&quot;414&quot; data-start=&quot;288&quot;&gt;prueba tus habilidades matemáticas y de conducción.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote data-end=&quot;687&quot; data-start=&quot;503&quot;&gt;&lt;p data-end=&quot;687&quot; data-start=&quot;505&quot;&gt;&lt;em data-end=&quot;620&quot; data-start=&quot;505&quot;&gt;&quot;Cada curva, cada subida y cada cálculo te acercará a convertirte&amp;nbsp;&lt;/em&gt;&lt;/p&gt;&lt;p data-end=&quot;687&quot; data-start=&quot;505&quot;&gt;&lt;em data-end=&quot;620&quot; data-start=&quot;505&quot;&gt;en un verdadero maestro del rally inteligente.&quot;&lt;/em&gt;&lt;br data-end=&quot;623&quot; data-start=&quot;620&quot;&gt;&lt;em data-end=&quot;687&quot; data-start=&quot;625&quot;&gt;&quot;¡Te deseo lo mejor, piloto… el mundo de E_Rally te espera!&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KE1zYMi7UNZFZbIT8Z2D-214">
+          <mxGeometry x="-28" y="125" width="484" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-216" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="2660" width="825" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-217" value="&lt;blockquote data-end=&quot;368&quot; data-start=&quot;264&quot;&gt;&lt;p data-end=&quot;368&quot; data-start=&quot;266&quot;&gt;&lt;em data-end=&quot;368&quot; data-start=&quot;266&quot;&gt;&quot;Antes de entrar a una carrera, recuerda algo muy importante: no todos los motores funcionan igual.&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p data-end=&quot;465&quot; data-start=&quot;370&quot;&gt;🚗 [Aparecen diferentes motores en pantalla, con estadísticas: potencia, aceleración, tracción]&lt;/p&gt;&lt;blockquote data-end=&quot;590&quot; data-start=&quot;467&quot;&gt;&lt;p data-end=&quot;590&quot; data-start=&quot;469&quot;&gt;&lt;em data-end=&quot;590&quot; data-start=&quot;469&quot;&gt;&quot;Cada motor tiene un rendimiento distinto, y su desempeño puede cambiar mucho según la pista en la que vayas a correr.&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p data-end=&quot;666&quot; data-start=&quot;592&quot;&gt;📈 [Muestra un ejemplo visual: pista con pendiente positiva muy inclinada]&lt;/p&gt;&lt;blockquote data-end=&quot;794&quot; data-start=&quot;668&quot;&gt;&lt;p data-end=&quot;794&quot; data-start=&quot;670&quot;&gt;&lt;em data-end=&quot;794&quot; data-start=&quot;670&quot;&gt;&quot;Por ejemplo, si vas a correr en una pista con &lt;strong data-end=&quot;740&quot; data-start=&quot;718&quot;&gt;pendiente positiva&lt;/strong&gt;, necesitarás un motor con &lt;strong data-end=&quot;791&quot; data-start=&quot;767&quot;&gt;más fuerza de subida&lt;/strong&gt;.&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p data-end=&quot;861&quot; data-start=&quot;796&quot;&gt;📉 [Luego muestra una pista con pendiente negativa o recta larga]&lt;/p&gt;&lt;blockquote data-end=&quot;972&quot; data-start=&quot;863&quot;&gt;&lt;p data-end=&quot;972&quot; data-start=&quot;865&quot;&gt;&lt;em data-end=&quot;972&quot; data-start=&quot;865&quot;&gt;&quot;Si es una pista descendente o con curvas suaves, podrías usar uno con mejor velocidad máxima o control.&quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p data-end=&quot;976&quot; data-start=&quot;974&quot;&gt;&lt;em style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1122&quot; data-start=&quot;980&quot;&gt;&quot;Por eso, conocer la &lt;strong data-end=&quot;1027&quot; data-start=&quot;1002&quot;&gt;pendiente de la pista&lt;/strong&gt; no es solo un dato matemático… es clave para tomar decisiones estratégicas y ganar carreras.&quot;&lt;/em&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1914" y="2670" width="762" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-218" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;La pendiente representa cuánto sube o baja una pista al avanzar en el eje horizontal. Es el &quot;grado de inclinación&quot; que tiene un tramo de la pista.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;En matemáticas, la pendiente se representa con la letra &quot;m&quot; en la ecuación de una recta:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;y = mx+b&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Si un tramo de la pista es recto y con una inclinación constante (como una rampa), podemos representarlo como una función lineal.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;`El eje x representa la distancia horizontal recorrida.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;El eje y representa la altura o elevación del terreno.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Supongamos que tienes dos puntos de la pista:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;* Punto de incio(x1,y1)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;* Punto&amp;nbsp; final(x2,y2)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;La pendinte se calcula de la siguiente forma:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;m = y2-y1/x2-x1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;Cambio en la altura dividido por el cambio en la distancia&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;******&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3203" y="-1083" width="633" height="552" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-219" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;Estructura de carpetas.&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3180" y="-740" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-220" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3180" y="-680" width="590" height="830" as="geometry">
+            <mxRectangle x="-3180" y="-680" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-221" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KE1zYMi7UNZFZbIT8Z2D-220">
+          <mxGeometry y="20" width="590" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-222" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;res://&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(40, 119, 255));&quot;&gt;&amp;gt;&amp;nbsp; Assets;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(40, 119, 255));&quot;&gt;&amp;gt;&amp;gt; 2D&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(40, 119, 255));&quot;&gt;&amp;gt;&amp;gt;&amp;gt; Texturas&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(40, 119, 255));&quot;&gt;&amp;gt;&amp;gt;&amp;gt; Usuarios_texturas&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(40, 119, 255));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; Navegacion&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(40, 119, 255));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; Imagenes&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(40, 119, 255));&quot;&gt;&amp;gt;&amp;gt; 3D(Cada modelo tiene su texturas)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(40, 119, 255));&quot;&gt;&amp;gt;&amp;gt;&amp;gt; carro_modelo&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(40, 119, 255));&quot;&gt;&amp;gt;&amp;gt;&amp;gt; Modelos_escenarios&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;Escenas_2D:&amp;nbsp; (cada escena tiene su codigo dentro de la carpeta):&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt; Main_menu&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; Exit&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; Ajustes&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt; Menu_niveles&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;Menu_Introduccion.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;Bienvenido_a_E_Rally&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;2&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;3&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;4&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;Rally_1&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;1&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;2&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;3&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;4&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;5&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;6&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;7&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;8&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;OPen_map&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 3D_open_world&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;2&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;3&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;4&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 204));&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;5&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="KE1zYMi7UNZFZbIT8Z2D-220">
+          <mxGeometry x="20" y="40" width="380" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-223" value="&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;1&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-910" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-224" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;2&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-193" y="-920" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-225" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;3&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-910" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-226" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;4&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="-920" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-227" value="&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;1&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="931" y="-462.36" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-228" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;2&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="-472.36" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-229" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;3&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="-462.36" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-230" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(204, 102, 0));&quot;&gt;4&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="-480" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-231" value="&lt;font color=&quot;#cc6600&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;5&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3440" y="-1210" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-232" value="&lt;font color=&quot;#cc6600&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;6&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="802.5" y="291" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-233" value="&lt;font color=&quot;#cc6600&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;7&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="334" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-234" value="&lt;font color=&quot;#cc6600&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;8&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="334" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-235" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-167" target="KE1zYMi7UNZFZbIT8Z2D-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1365.1176470588234" y="1610" as="targetPoint" />
+            <mxPoint x="-1365" y="1180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-237" target="KE1zYMi7UNZFZbIT8Z2D-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-237" value="Parametro exit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1744" y="769" width="321" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KE1zYMi7UNZFZbIT8Z2D-240" target="KE1zYMi7UNZFZbIT8Z2D-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-240" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1744" y="-1130" width="840" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="KE1zYMi7UNZFZbIT8Z2D-243" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;LOADING...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1535" y="-1044" width="416" height="208" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
